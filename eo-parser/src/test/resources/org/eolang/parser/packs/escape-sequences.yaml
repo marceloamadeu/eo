@@ -1,0 +1,10 @@
+xsls:
+
+tests:
+  - //o[@name='nick' and "The Dude"]
+eo: |
+  +alias stdout org.eolang.io.stdout
+
+  [] > app
+    stdout > nick
+      "Hello, world!"
