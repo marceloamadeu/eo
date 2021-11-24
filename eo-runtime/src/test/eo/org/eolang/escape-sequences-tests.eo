@@ -21,8 +21,10 @@
 # SOFTWARE.
 
 +package org.eolang
++alias stdout org.eolang.io.stdout
 +junit
 
-[] > app
-  stdout > nick
-    "Hello, Jeffrey The Dudde!"
+[] > escape-sequences
+  stdout > @
+    "The \n Dudde 123"
+

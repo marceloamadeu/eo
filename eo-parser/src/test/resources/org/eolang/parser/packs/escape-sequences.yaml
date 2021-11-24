@@ -1,10 +1,6 @@
-xsls:
-
+xsls: []
 tests:
-  - //o[@name='nick' and "The Dude"]
+  - //o[@name='x' and text()='The \n Dudde']
 eo: |
-  +alias stdout org.eolang.io.stdout
-
-  [] > app
-    stdout > nick
-      "Hello, world!"
+  [] > escape-sequences
+    "The \n Dudde" > x
