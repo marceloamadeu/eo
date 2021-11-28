@@ -170,7 +170,7 @@
         quotient
 
 # Checks that division by one returns the dividend
-[] > divisioe-by-one
+[] > division-by-one
   -235 > dividend
   eq. > @
     dividend.div 1

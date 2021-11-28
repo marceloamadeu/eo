@@ -24,30 +24,27 @@
 
 package EOorg.EOeolang;
 
-import org.eolang.AtComposite;
-import org.eolang.AtFree;
-import org.eolang.Data;
-import org.eolang.Dataized;
-import org.eolang.PhDefault;
-import org.eolang.Phi;
-import org.eolang.XmirObject;
+import org.eolang.*;
+import java.math.BigInteger;
 
 /**
- * MOD.
+ * BYTES.NOT.
  *
  * @since 1.0
  */
-@XmirObject(oname = "int.mod")
-public class EOint$EOmod extends PhDefault {
+@XmirObject(oname = "bytes.not")
+public class EObytes$EOnot extends PhDefault {
 
-    public EOint$EOmod(final Phi sigma) {
+    public EObytes$EOnot(final Phi sigma) {
         super(sigma);
-        this.add("x", new AtFree());
-        this.add("φ", new AtComposite(this, self -> new Data.ToPhi(
-            new Dataized(self.attr("ρ").get()).take(Long.class)
-            %
-            new Dataized(self.attr("x").get()).take(Long.class)
-        )));
+        this.add("φ", new AtComposite(this, self -> {
+            final byte[] array = new Dataized(
+                self.attr("ρ").get()
+            ).take(byte[].class);
+            return new Data.ToPhi(
+                new BigInteger(array).not().toByteArray()
+            );
+        }));
     }
 
 }
