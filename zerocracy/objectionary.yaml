@@ -2,25 +2,131 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 0.758754628
+  seconds: 11.828706442
   version: 0.42.1
   what: judges-summary
-  when: 2025-05-25 03:35:22.792227090 Z
+  when: 2025-05-25 04:31:02.626733259 Z
 - _id: 1
-  _time: 2025-05-25 03:35:22.776820625 Z
+  _time: 2025-05-25 04:31:00.263421650 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-04-27 03:35:22.777009318 Z
-  what: quality-of-service
-  when: 2025-05-25 03:35:22.776969884 Z
+  commit: 0f8deadbda671e669d2afe026dbdde6be435ed3b
+  default_branch: master
+  details: 'A new Git push #24375913950 has arrived to objectionary/dejump, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49871714973
+  event_type: PushEvent
+  push_id: 24375913950
+  ref: refs/heads/master
+  repository: 483303722
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-19 09:28:06.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-05-25 03:35:22.783965345 Z
+  _time: 2025-05-25 04:31:00.478388292 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-04-27 03:35:22.784067306 Z
-  what: quantity-of-deliverables
-  when: 2025-05-25 03:35:22.784043782 Z
+  commit: 4aaf7ec4c044a43da315eeb4529aac47d1506189
+  default_branch: master
+  details: 'A new Git push #24179438769 has arrived to objectionary/dejump, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49493075279
+  event_type: PushEvent
+  push_id: 24179438769
+  ref: refs/heads/master
+  repository: 483303722
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-08 09:09:02.000000000 Z
+  where: github
+  who: 526301
 - _id: 3
-  _time: 2025-05-25 03:35:22.790429496 Z
+  _time: 2025-05-25 04:31:00.590568199 Z
   _version: 0.10.2/0.42.1/
+  commit: 5b5e372654733aa98ea67c95c4b80852ca87b657
+  default_branch: master
+  details: 'A new Git push #24168093361 has arrived to objectionary/dejump, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49470646211
+  event_type: PushEvent
+  push_id: 24168093361
+  ref: refs/heads/master
+  repository: 483303722
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-07 18:32:33.000000000 Z
+  where: github
+  who: 526301
+- _id: 4
+  _time: 2025-05-25 04:31:00.750691743 Z
+  _version: 0.10.2/0.42.1/
+  commit: 030f7f58642d74b36e3a16bbf476e737243697a7
+  default_branch: master
+  details: 'A new Git push #24123275252 has arrived to objectionary/dejump, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49379929132
+  event_type: PushEvent
+  push_id: 24123275252
+  ref: refs/heads/master
+  repository: 483303722
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-05 19:22:29.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-05-25 04:31:00.883154908 Z
+  _version: 0.10.2/0.42.1/
+  latest: 49876356446
+  repository: 483303722
+  what: events-were-scanned
+  where: github
+- _id: 6
+  _time: 2025-05-25 04:31:01.264852277 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  details: The pull request objectionary/sodg-maven-plugin#38 has been opened by @renovate[bot].
+  event_id: 49877244812
+  event_type: PullRequestEvent
+  issue: 38
+  repository: 955159947
+  what: pull-was-opened
+  when: 2025-05-19 11:38:40.000000000 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2025-05-25 04:31:02.605489344 Z
+  _version: 0.10.2/0.42.1/
+  total_repositories: 44
   what: dimensions-of-terrain
-  when: 2025-05-25 03:35:22.790505498 Z
+  when: 2025-05-25 04:31:02.274846892 Z
+- _id: 8
+  _time: 2025-05-25 04:31:02.612871750 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2025-05-25 04:31:02.613044412 Z
+  where: github
+  who: 526301
+- _id: 9
+  _time: 2025-05-25 04:31:02.613931868 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-05-25 04:31:02.614070296 Z
+  where: github
+  who: 29139614
+- _id: 10
+  _time: 2025-05-25 04:31:02.618055782 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-04-27 04:31:02.618164064 Z
+  what: quality-of-service
+  when: 2025-05-25 04:31:02.618139508 Z
+- _id: 11
+  _time: 2025-05-25 04:31:02.621792363 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-04-27 04:31:02.621895926 Z
+  what: quantity-of-deliverables
+  when: 2025-05-25 04:31:02.621872222 Z
