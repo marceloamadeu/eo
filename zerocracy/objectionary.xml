@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="1123">
+<fb version="0.10.2" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/speco: 403 - API rate limit exceeded for 138.91.153.213. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">74.919982696</seconds>
+    <seconds t="F">17.29301185</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-05-27T04:36:15Z</when>
+    <when t="T">2025-05-27T05:24:54Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-05-27T04:36:14Z</_time>
+    <_time t="T">2025-05-27T05:24:54Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-04-29T04:36:14Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-05-27T04:36:14Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-05-27T05:24:54Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-05-27T04:36:15Z</_time>
+    <_time t="T">2025-05-27T05:24:54Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-04-29T04:36:15Z</since>
+    <since t="T">2025-04-29T05:24:54Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-05-27T04:36:15Z</when>
+    <when t="T">2025-05-27T05:24:54Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-05-27T04:36:15Z</_time>
+    <_time t="T">2025-05-27T05:24:54Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-05-27T04:36:15Z</when>
+    <since t="T">2025-04-29T05:24:54Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-05-27T05:24:54Z</when>
   </f>
 </fb>
