@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/speco: 403 - API rate limit
+    exceeded for 13.87.129.160. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 11.846987554
+  seconds: 80.010271471
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-05 09:44:59.360047016 Z
+  when: 2025-06-05 10:29:21.147573585 Z
 - _id: 1
-  _time: 2025-06-05 09:44:59.343538637 Z
+  _time: 2025-06-05 10:29:21.131666420 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-08 09:44:59.343725995 Z
-  what: quality-of-service
-  when: 2025-06-05 09:44:59.343687614 Z
-- _id: 2
-  _time: 2025-06-05 09:44:59.355039529 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-08 09:44:59.355143713 Z
+  since: 2025-05-08 10:29:21.132252450 Z
   what: quantity-of-deliverables
-  when: 2025-06-05 09:44:59.355120249 Z
-- _id: 3
-  _time: 2025-06-05 09:44:59.359137143 Z
+  when: 2025-06-05 10:29:21.132213707 Z
+- _id: 2
+  _time: 2025-06-05 10:29:21.140672332 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-05 09:44:59.359214407 Z
+  when: 2025-06-05 10:29:21.140812032 Z
+- _id: 3
+  _time: 2025-06-05 10:29:21.142267849 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-08 10:29:21.142405115 Z
+  what: quality-of-service
+  when: 2025-06-05 10:29:21.142371632 Z
