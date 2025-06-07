@@ -3,24 +3,115 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 7.53776787
+  seconds: 8.313268269
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-07 16:51:21.675816599 Z
+  when: 2025-06-07 17:20:04.339612344 Z
 - _id: 1
-  _time: 2025-06-07 16:51:21.658115553 Z
+  _time: 2025-06-07 17:20:04.037763446 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-10 16:51:21.658301260 Z
-  what: quality-of-service
-  when: 2025-06-07 16:51:21.658264230 Z
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/eo-intellij-plugin#70 has been opened by
+    @renovate[bot].
+  event_id: 50150654218
+  event_type: PullRequestEvent
+  issue: 70
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-05-26 14:19:34.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-06-07 16:51:21.662337926 Z
+  _time: 2025-06-07 17:20:04.122494232 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-10 16:51:21.662436750 Z
-  what: quantity-of-deliverables
-  when: 2025-06-07 16:51:21.662414038 Z
+  details: The issue objectionary/eo-intellij-plugin#69 has been opened by @xzescha.
+  event_id: 49989419870
+  event_type: IssuesEvent
+  issue: 69
+  repository: 492899189
+  what: issue-was-opened
+  when: 2025-05-21 17:12:39.000000000 Z
+  where: github
+  who: 50021439
 - _id: 3
-  _time: 2025-06-07 16:51:21.668891417 Z
+  _time: 2025-06-07 17:20:04.280703260 Z
+  _version: 0.10.2/0.42.1/
+  branch: find-usages-add
+  details: The pull request objectionary/eo-intellij-plugin#68 has been opened by
+    @xzescha.
+  event_id: 49659693715
+  event_type: PullRequestEvent
+  issue: 68
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-05-13 10:53:04.000000000 Z
+  where: github
+  who: 50021439
+- _id: 4
+  _time: 2025-06-07 17:20:04.288089198 Z
+  _version: 0.10.2/0.42.1/
+  branch: structure-view-add
+  details: The pull request objectionary/eo-intellij-plugin#67 has been opened by
+    @xzescha.
+  event_id: 49659437082
+  event_type: PullRequestEvent
+  issue: 67
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-05-13 10:46:37.000000000 Z
+  where: github
+  who: 50021439
+- _id: 5
+  _time: 2025-06-07 17:20:04.295601140 Z
+  _version: 0.10.2/0.42.1/
+  branch: code-completion-add
+  details: The pull request objectionary/eo-intellij-plugin#66 has been opened by
+    @xzescha.
+  event_id: 49659216677
+  event_type: PullRequestEvent
+  issue: 66
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-05-13 10:41:13.000000000 Z
+  where: github
+  who: 50021439
+- _id: 6
+  _time: 2025-06-07 17:20:04.302539357 Z
+  _version: 0.10.2/0.42.1/
+  latest: 50495525709
+  repository: 492899189
+  what: events-were-scanned
+  where: github
+- _id: 7
+  _time: 2025-06-07 17:20:04.309496138 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-10 17:20:04.309606042 Z
+  what: quantity-of-deliverables
+  when: 2025-06-07 17:20:04.309581356 Z
+- _id: 8
+  _time: 2025-06-07 17:20:04.312014215 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-10 17:20:04.312111897 Z
+  what: quality-of-service
+  when: 2025-06-07 17:20:04.312089134 Z
+- _id: 9
+  _time: 2025-06-07 17:20:04.326459848 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-06-07 17:20:04.326807243 Z
+  where: github
+  who: 29139614
+- _id: 10
+  _time: 2025-06-07 17:20:04.328554779 Z
+  _version: 0.10.2/0.42.1/
+  name: xzescha
+  what: who-has-name
+  when: 2025-06-07 17:20:04.328786750 Z
+  where: github
+  who: 50021439
+- _id: 11
+  _time: 2025-06-07 17:20:04.338507012 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-07 16:51:21.668971246 Z
+  when: 2025-06-07 17:20:04.338591178 Z
