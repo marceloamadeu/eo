@@ -1,146 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="3321">
+<fb version="0.10.2" size="792">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">11.580870045</seconds>
+    <seconds t="F">10.244981122</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
+    <when t="T">2025-06-09T21:43:14Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-09T21:23:53Z</_time>
+    <_time t="T">2025-06-09T21:43:14Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/crate-ci-typos-1.x</branch>
-    <details t="S">The pull request objectionary/on-the-origin-of-objects#43 has been opened by @renovate[bot].</details>
-    <event_id t="I">50423943407</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">43</issue>
-    <repository t="I">499536612</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-02T19:28:16Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-05-12T21:43:14Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-09T21:43:14Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-09T21:23:53Z</_time>
+    <_time t="T">2025-06-09T21:43:14Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/yegor256-copyrights-action-0.x</branch>
-    <details t="S">The pull request objectionary/on-the-origin-of-objects#42 has been opened by @renovate[bot].</details>
-    <event_id t="I">50140227434</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">42</issue>
-    <repository t="I">499536612</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-26T10:09:59Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-05-12T21:43:14Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-09T21:43:14Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-09T21:23:53Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">cc96913c47cc1218f2ad07dec225ac2be3cae81c</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24376457645 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49872892642</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24376457645</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-19T09:54:15Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/yegor256-latexmk-action-0.x</branch>
-    <details t="S">The pull request objectionary/on-the-origin-of-objects#41 has been opened by @renovate[bot].</details>
-    <event_id t="I">49829280773</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">41</issue>
-    <repository t="I">499536612</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-05-17T06:49:56Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">46c7fca461c24083e693c36e4f2bc1c83c472654</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #24268494051 has arrived to objectionary/on-the-origin-of-objects, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">49663702077</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">24268494051</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">499536612</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-05-13T12:29:17Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <latest t="I">50423943407</latest>
-    <repository t="I">499536612</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-12T21:23:54Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-12T21:23:54Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-06-09T21:23:54Z</_time>
+    <_time t="T">2025-06-09T21:43:14Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-09T21:23:54Z</when>
+    <when t="T">2025-06-09T21:43:14Z</when>
   </f>
 </fb>
