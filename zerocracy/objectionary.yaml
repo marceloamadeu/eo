@@ -3,104 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 18.855879837
+  seconds: 7.566756806
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-14 12:46:12.536911146 Z
+  when: 2025-06-14 13:30:54.263652048 Z
 - _id: 1
-  _time: 2025-06-14 12:46:11.808793309 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/eolang-paper#9 has been opened by @renovate[bot].
-  event_id: 50486313214
-  event_type: PullRequestEvent
-  issue: 9
-  repository: 784310467
-  what: pull-was-opened
-  when: 2025-06-04 04:01:08.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-06-14 12:46:12.028903952 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/yegor256-copyrights-action-0.x
-  details: The pull request objectionary/eolang-paper#8 has been opened by @renovate[bot].
-  event_id: 50360144059
-  event_type: PullRequestEvent
-  issue: 8
-  repository: 784310467
-  what: pull-was-opened
-  when: 2025-05-31 16:08:41.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-06-14 12:46:12.042448356 Z
-  _version: 0.10.2/0.42.1/
-  commit: cd329d71067dd9c44780d0b3c43e9856ecb64a41
-  default_branch: master
-  details: 'A new Git push #24376006371 has arrived to objectionary/eolang-paper,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 49871916562
-  event_type: PushEvent
-  push_id: 24376006371
-  ref: refs/heads/master
-  repository: 784310467
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-05-19 09:32:33.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-06-14 12:46:12.499202932 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/yegor256-latexmk-action-0.x
-  details: The pull request objectionary/eolang-paper#7 has been opened by @renovate[bot].
-  event_id: 49840366771
-  event_type: PullRequestEvent
-  issue: 7
-  repository: 784310467
-  what: pull-was-opened
-  when: 2025-05-17 23:24:07.000000000 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2025-06-14 12:46:12.513166331 Z
-  _version: 0.10.2/0.42.1/
-  latest: 50486313214
-  repository: 784310467
-  what: events-were-scanned
-  where: github
-- _id: 6
-  _time: 2025-06-14 12:46:12.517490636 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-17 12:46:12.517595091 Z
-  what: quality-of-service
-  when: 2025-06-14 12:46:12.517570986 Z
-- _id: 7
-  _time: 2025-06-14 12:46:12.520186859 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-17 12:46:12.520290193 Z
-  what: quantity-of-deliverables
-  when: 2025-06-14 12:46:12.520266528 Z
-- _id: 8
-  _time: 2025-06-14 12:46:12.527866271 Z
-  _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-14 12:46:12.528010601 Z
-  where: github
-  who: 29139614
-- _id: 9
-  _time: 2025-06-14 12:46:12.529056802 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-06-14 12:46:12.529219728 Z
-  where: github
-  who: 526301
-- _id: 10
-  _time: 2025-06-14 12:46:12.534000165 Z
+  _time: 2025-06-14 13:30:54.255040350 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-14 12:46:12.534080175 Z
+  when: 2025-06-14 13:30:54.255307389 Z
+- _id: 2
+  _time: 2025-06-14 13:30:54.258505819 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-17 13:30:54.258644899 Z
+  what: quantity-of-deliverables
+  when: 2025-06-14 13:30:54.258610755 Z
+- _id: 3
+  _time: 2025-06-14 13:30:54.261794737 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-17 13:30:54.261928717 Z
+  what: quality-of-service
+  when: 2025-06-14 13:30:54.261896427 Z
