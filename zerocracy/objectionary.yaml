@@ -3,24 +3,77 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 6.63270419
+  seconds: 10.602722355
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-15 02:11:26.690855843 Z
+  when: 2025-06-15 03:39:59.617237103 Z
 - _id: 1
-  _time: 2025-06-15 02:11:26.679407816 Z
+  _time: 2025-06-15 03:39:59.269496589 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-18 02:11:26.679589064 Z
-  what: quality-of-service
-  when: 2025-06-15 02:11:26.679551955 Z
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/eo-graphs#26 has been opened by @renovate[bot].
+  event_id: 50351777578
+  event_type: PullRequestEvent
+  issue: 26
+  repository: 396732517
+  what: pull-was-opened
+  when: 2025-05-31 04:14:14.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-06-15 02:11:26.686272811 Z
+  _time: 2025-06-15 03:39:59.376337562 Z
+  _version: 0.10.2/0.42.1/
+  commit: 35b72870695587dd9497114b21381e1f6079ea93
+  default_branch: master
+  details: 'A new Git push #24375979186 has arrived to objectionary/eo-graphs, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 49871857855
+  event_type: PushEvent
+  push_id: 24375979186
+  ref: refs/heads/master
+  repository: 396732517
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-05-19 09:31:13.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-06-15 03:39:59.593289723 Z
+  _version: 0.10.2/0.42.1/
+  latest: 50351777578
+  repository: 396732517
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2025-06-15 03:39:59.602679663 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-06-15 03:39:59.602830794 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2025-06-15 03:39:59.603680797 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2025-06-15 03:39:59.604070593 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2025-06-15 03:39:59.607191442 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-18 03:39:59.607294394 Z
+  what: quantity-of-deliverables
+  when: 2025-06-15 03:39:59.607270690 Z
+- _id: 7
+  _time: 2025-06-15 03:39:59.609708498 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-18 03:39:59.609807973 Z
+  what: quality-of-service
+  when: 2025-06-15 03:39:59.609785121 Z
+- _id: 8
+  _time: 2025-06-15 03:39:59.613870353 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-15 02:11:26.686352079 Z
-- _id: 3
-  _time: 2025-06-15 02:11:26.688604667 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-18 02:11:26.688702460 Z
-  what: quantity-of-deliverables
-  when: 2025-06-15 02:11:26.688679517 Z
+  when: 2025-06-15 03:39:59.613947297 Z
