@@ -1,37 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="1139">
+<fb version="0.10.2" size="1868">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API rate limit exceeded for 138.91.229.89. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting</error>
+    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">74.844115954</seconds>
+    <seconds t="F">15.429942964</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-19T11:43:05Z</when>
+    <when t="T">2025-06-19T12:51:55Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-19T11:43:05Z</_time>
+    <_time t="T">2025-06-19T12:51:48Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-22T11:43:05Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-19T11:43:05Z</when>
+    <commits t="I">773</commits>
+    <contributors>
+      <v t="I">526301</v>
+      <v t="I">33455325</v>
+      <v t="I">37025995</v>
+      <v t="I">29139614</v>
+      <v t="I">8086956</v>
+      <v t="I">40247101</v>
+      <v t="I">46539785</v>
+      <v t="I">51804353</v>
+      <v t="I">45946541</v>
+      <v t="I">70313618</v>
+    </contributors>
+    <details t="S">A new release 'New release for eo-0.56.5' has been published in objectionary/home by @rultor.</details>
+    <event_id t="I">50923200554</event_id>
+    <event_type t="S">ReleaseEvent</event_type>
+    <hoc t="I">19813</hoc>
+    <last_commit t="S">9c9cce88d762bddfc93c19ee2f4f292710705fc3</last_commit>
+    <release t="I">225412051</release>
+    <repository t="I">13623548</repository>
+    <tag t="S">0.56.5</tag>
+    <what t="S">release-published</what>
+    <when t="T">2025-06-15T18:00:34Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-19T11:43:05Z</_time>
+    <_time t="T">2025-06-19T12:51:54Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-19T11:43:05Z</when>
+    <details t="S">A new tag '0.56.5' has been created in objectionary/home by @rultor.</details>
+    <event_id t="I">50923190230</event_id>
+    <event_type t="S">CreateEvent</event_type>
+    <repository t="I">13623548</repository>
+    <tag t="S">0.56.5</tag>
+    <what t="S">tag-was-created</what>
+    <when t="T">2025-06-15T18:00:02Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-19T11:43:05Z</_time>
+    <_time t="T">2025-06-19T12:51:55Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-22T11:43:05Z</since>
+    <since t="T">2025-05-22T12:51:55Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-19T11:43:05Z</when>
+    <when t="T">2025-06-19T12:51:55Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-06-19T12:51:55Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2025-05-22T12:51:55Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-19T12:51:55Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-06-19T12:51:55Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-06-19T12:51:55Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2025-06-19T12:51:55Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">rultor</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-06-19T12:51:55Z</when>
+    <where t="S">github</where>
+    <who t="I">8086956</who>
   </f>
 </fb>
