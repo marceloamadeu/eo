@@ -2,74 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 15.429942964
+  seconds: 8.140167937
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-19 12:51:55.381340081 Z
+  when: 2025-06-19 13:35:51.677909601 Z
 - _id: 1
-  _time: 2025-06-19 12:51:48.291012531 Z
-  _version: 0.10.2/0.42.1/
-  commits: 773
-  contributors:
-  - 526301
-  - 33455325
-  - 37025995
-  - 29139614
-  - 8086956
-  - 40247101
-  - 46539785
-  - 51804353
-  - 45946541
-  - 70313618
-  details: A new release 'New release for eo-0.56.5' has been published in objectionary/home
-    by @rultor.
-  event_id: 50923200554
-  event_type: ReleaseEvent
-  hoc: 19813
-  last_commit: 9c9cce88d762bddfc93c19ee2f4f292710705fc3
-  release: 225412051
-  repository: 13623548
-  tag: 0.56.5
-  what: release-published
-  when: 2025-06-15 18:00:34.000000000 Z
-  where: github
-  who: 8086956
-- _id: 2
-  _time: 2025-06-19 12:51:54.769405548 Z
-  _version: 0.10.2/0.42.1/
-  details: A new tag '0.56.5' has been created in objectionary/home by @rultor.
-  event_id: 50923190230
-  event_type: CreateEvent
-  repository: 13623548
-  tag: 0.56.5
-  what: tag-was-created
-  when: 2025-06-15 18:00:02.000000000 Z
-  where: github
-  who: 8086956
-- _id: 3
-  _time: 2025-06-19 12:51:55.364992257 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-22 12:51:55.365128922 Z
-  what: quantity-of-deliverables
-  when: 2025-06-19 12:51:55.365102042 Z
-- _id: 4
-  _time: 2025-06-19 12:51:55.371843296 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-22 12:51:55.372536098 Z
-  what: quality-of-service
-  when: 2025-06-19 12:51:55.371922604 Z
-- _id: 5
-  _time: 2025-06-19 12:51:55.374533063 Z
+  _time: 2025-06-19 13:35:51.657979763 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-19 12:51:55.374610196 Z
-- _id: 6
-  _time: 2025-06-19 12:51:55.377732300 Z
+  when: 2025-06-19 13:35:51.658145582 Z
+- _id: 2
+  _time: 2025-06-19 13:35:51.667224043 Z
   _version: 0.10.2/0.42.1/
-  name: rultor
-  what: who-has-name
-  when: 2025-06-19 12:51:55.377871950 Z
-  where: github
-  who: 8086956
+  since: 2025-05-22 13:35:51.667493144 Z
+  what: quantity-of-deliverables
+  when: 2025-06-19 13:35:51.667413085 Z
+- _id: 3
+  _time: 2025-06-19 13:35:51.670154495 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-22 13:35:51.670299836 Z
+  what: quality-of-service
+  when: 2025-06-19 13:35:51.670267515 Z
