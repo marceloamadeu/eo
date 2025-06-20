@@ -3,65 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 8.692857356
+  seconds: 9.820154301
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-20 07:42:15.240844873 Z
+  when: 2025-06-20 08:33:01.437992564 Z
 - _id: 1
-  _time: 2025-06-20 07:42:15.112523879 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/proof#60 has been opened by @renovate[bot].
-  event_id: 50421265582
-  event_type: PullRequestEvent
-  issue: 60
-  repository: 731516758
-  what: pull-was-opened
-  when: 2025-06-02 18:14:50.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-06-20 07:42:15.208820569 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/yegor256-copyrights-action-0.x
-  details: The pull request objectionary/proof#59 has been opened by @renovate[bot].
-  event_id: 50139897496
-  event_type: PullRequestEvent
-  issue: 59
-  repository: 731516758
-  what: pull-was-opened
-  when: 2025-05-26 10:02:23.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-06-20 07:42:15.218307020 Z
-  _version: 0.10.2/0.42.1/
-  latest: 50421265582
-  repository: 731516758
-  what: events-were-scanned
-  where: github
-- _id: 4
-  _time: 2025-06-20 07:42:15.222479180 Z
+  _time: 2025-06-20 08:33:01.421788622 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-20 07:42:15.222558870 Z
-- _id: 5
-  _time: 2025-06-20 07:42:15.226751324 Z
+  when: 2025-06-20 08:33:01.422121343 Z
+- _id: 2
+  _time: 2025-06-20 08:33:01.426821954 Z
   _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-20 07:42:15.226890687 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-06-20 07:42:15.229611252 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-23 07:42:15.229711100 Z
+  since: 2025-05-23 08:33:01.426959270 Z
   what: quantity-of-deliverables
-  when: 2025-06-20 07:42:15.229687856 Z
-- _id: 7
-  _time: 2025-06-20 07:42:15.232054453 Z
+  when: 2025-06-20 08:33:01.426925677 Z
+- _id: 3
+  _time: 2025-06-20 08:33:01.431918854 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-23 07:42:15.232185720 Z
+  since: 2025-05-23 08:33:01.432097177 Z
   what: quality-of-service
-  when: 2025-06-20 07:42:15.232130406 Z
+  when: 2025-06-20 08:33:01.432060329 Z
