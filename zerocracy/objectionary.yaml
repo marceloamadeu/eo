@@ -2,58 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 10.093320731
+  seconds: 11.817962241
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-23 08:34:43.908151705 Z
+  when: 2025-06-23 09:29:38.719544086 Z
 - _id: 1
-  _time: 2025-06-23 08:34:42.348030535 Z
+  _time: 2025-06-23 09:29:38.706809208 Z
   _version: 0.10.2/0.42.1/
-  details: The issue objectionary/sodg#76 has been closed by @yegor256.
-  event_id: 50791663497
-  event_type: IssuesEvent
-  issue: 76
-  repository: 543969974
-  what: issue-was-closed
-  when: 2025-06-11 19:46:38.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-06-23 08:34:42.440284850 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/sodg#81 has been closed by @yegor256.
-  event_id: 50730781778
-  event_type: IssuesEvent
-  issue: 81
-  repository: 543969974
-  what: issue-was-closed
-  when: 2025-06-10 15:48:00.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2025-06-23 08:34:43.893669061 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-06-23 08:34:43.893831787 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-06-23 08:34:43.900313277 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-26 08:34:43.900426700 Z
+  since: 2025-05-26 09:29:38.706990285 Z
   what: quality-of-service
-  when: 2025-06-23 08:34:43.900400831 Z
-- _id: 5
-  _time: 2025-06-23 08:34:43.903460945 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-26 08:34:43.903568327 Z
-  what: quantity-of-deliverables
-  when: 2025-06-23 08:34:43.903544111 Z
-- _id: 6
-  _time: 2025-06-23 08:34:43.907109328 Z
+  when: 2025-06-23 09:29:38.706953076 Z
+- _id: 2
+  _time: 2025-06-23 09:29:38.709426989 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-23 08:34:43.907211059 Z
+  when: 2025-06-23 09:29:38.709537685 Z
+- _id: 3
+  _time: 2025-06-23 09:29:38.715728880 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-26 09:29:38.715826021 Z
+  what: quantity-of-deliverables
+  when: 2025-06-23 09:29:38.715803389 Z
