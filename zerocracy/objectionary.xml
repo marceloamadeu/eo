@@ -1,36 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="794">
+<fb version="0.10.2" size="1588">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.203194121</seconds>
+    <seconds t="F">10.093320731</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-06-23T07:44:32Z</when>
+    <when t="T">2025-06-23T08:34:43Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-06-23T07:44:32Z</_time>
+    <_time t="T">2025-06-23T08:34:42Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-26T07:44:32Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-06-23T07:44:32Z</when>
+    <details t="S">The issue objectionary/sodg#76 has been closed by @yegor256.</details>
+    <event_id t="I">50791663497</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">76</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2025-06-11T19:46:38Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-06-23T07:44:32Z</_time>
+    <_time t="T">2025-06-23T08:34:42Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-05-26T07:44:32Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-06-23T07:44:32Z</when>
+    <details t="S">The issue objectionary/sodg#81 has been closed by @yegor256.</details>
+    <event_id t="I">50730781778</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">81</issue>
+    <repository t="I">543969974</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2025-06-10T15:48:00Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-06-23T07:44:32Z</_time>
+    <_time t="T">2025-06-23T08:34:43Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2025-06-23T08:34:43Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2025-06-23T08:34:43Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2025-05-26T08:34:43Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-06-23T08:34:43Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2025-06-23T08:34:43Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2025-05-26T08:34:43Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-06-23T08:34:43Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2025-06-23T08:34:43Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-06-23T07:44:32Z</when>
+    <when t="T">2025-06-23T08:34:43Z</when>
   </f>
 </fb>
