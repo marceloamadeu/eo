@@ -3,24 +3,52 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 10.557481719
+  seconds: 8.218458869
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-25 21:43:20.067213589 Z
+  when: 2025-06-25 22:24:08.264516327 Z
 - _id: 1
-  _time: 2025-06-25 21:43:20.050892379 Z
+  _time: 2025-06-25 22:24:08.162210008 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-28 21:43:20.051083058 Z
-  what: quantity-of-deliverables
-  when: 2025-06-25 21:43:20.051044405 Z
+  branch: renovate/yegor256-copyrights-action-0.x
+  details: The pull request objectionary/eo-graphs#26 has been opened by @renovate[bot].
+  event_id: 50351777578
+  event_type: PullRequestEvent
+  issue: 26
+  repository: 396732517
+  what: pull-was-opened
+  when: 2025-05-31 04:14:14.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-06-25 21:43:20.057914979 Z
+  _time: 2025-06-25 22:24:08.239629835 Z
+  _version: 0.10.2/0.42.1/
+  latest: 50351777578
+  repository: 396732517
+  what: events-were-scanned
+  where: github
+- _id: 3
+  _time: 2025-06-25 22:24:08.241744381 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-25 21:43:20.058023403 Z
-- _id: 3
-  _time: 2025-06-25 21:43:20.059394952 Z
+  when: 2025-06-25 22:24:08.241858494 Z
+- _id: 4
+  _time: 2025-06-25 22:24:08.249493335 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-05-28 21:43:20.059530897 Z
+  since: 2025-05-28 22:24:08.249616615 Z
+  what: quantity-of-deliverables
+  when: 2025-06-25 22:24:08.249591438 Z
+- _id: 5
+  _time: 2025-06-25 22:24:08.252951826 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-06-25 22:24:08.253103159 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2025-06-25 22:24:08.255549475 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-05-28 22:24:08.255654381 Z
   what: quality-of-service
-  when: 2025-06-25 21:43:20.059497975 Z
+  when: 2025-06-25 22:24:08.255630186 Z
