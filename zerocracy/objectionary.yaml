@@ -3,75 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 10.781742725
+  seconds: 7.883929791
   version: 0.42.1
   what: judges-summary
-  when: 2025-06-26 19:40:56.517412946 Z
+  when: 2025-06-26 20:27:58.328157066 Z
 - _id: 1
-  _time: 2025-06-26 19:40:56.148348778 Z
+  _time: 2025-06-26 20:27:58.315606101 Z
   _version: 0.10.2/0.42.1/
-  branch: renovate/configure
-  details: The pull request objectionary/eo-lsp-server#2 has been opened by @renovate[bot].
-  event_id: 50713714133
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 2
-  repository: 970961472
-  what: pull-was-opened
-  when: 2025-06-10 09:00:15.000000000 Z
-  where: github
-  who: 29139614
+  since: 2025-05-29 20:27:58.315823047 Z
+  what: quality-of-service
+  when: 2025-06-26 20:27:58.315783052 Z
 - _id: 2
-  _time: 2025-06-26 19:40:56.288174645 Z
+  _time: 2025-06-26 20:27:58.322642210 Z
   _version: 0.10.2/0.42.1/
-  latest: 50715949068
-  repository: 970961472
-  what: events-were-scanned
-  where: github
+  since: 2025-05-29 20:27:58.322802721 Z
+  what: quantity-of-deliverables
+  when: 2025-06-26 20:27:58.322757095 Z
 - _id: 3
-  _time: 2025-06-26 19:40:56.296177211 Z
+  _time: 2025-06-26 20:27:58.324160112 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-06-26 19:40:56.296260666 Z
-- _id: 4
-  _time: 2025-06-26 19:40:56.298787665 Z
-  _version: 0.10.2/0.42.1/
-  is_human: 0
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-06-26 19:40:56.298958122 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2025-06-26 19:40:56.502375526 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-06-26 19:40:56.505210156 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-06-26 19:40:56.507826992 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-06-26 19:40:56.510735079 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-29 19:40:56.510842559 Z
-  what: quality-of-service
-  when: 2025-06-26 19:40:56.510816771 Z
-- _id: 9
-  _time: 2025-06-26 19:40:56.513620477 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-05-29 19:40:56.513721996 Z
-  what: quantity-of-deliverables
-  when: 2025-06-26 19:40:56.513698713 Z
+  when: 2025-06-26 20:27:58.324238539 Z
