@@ -3,71 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 10.478055769
+  seconds: 9.909417409
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-02 16:31:38.057392474 Z
+  when: 2025-07-02 17:23:21.557495750 Z
 - _id: 1
-  _time: 2025-07-02 16:31:37.593120936 Z
-  _version: 0.10.2/0.42.1/
-  branch: '67'
-  details: The pull request objectionary/eo-vscode#68 has been opened by @yegor256.
-  event_id: 51468108981
-  event_type: PullRequestEvent
-  issue: 68
-  repository: 551486781
-  what: pull-was-opened
-  when: 2025-06-29 08:10:59.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-07-02 16:31:37.701608877 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/eo-vscode#67 has been opened by @yegor256.
-  event_id: 51468055609
-  event_type: IssuesEvent
-  issue: 67
-  repository: 551486781
-  what: issue-was-opened
-  when: 2025-06-29 08:06:26.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2025-07-02 16:31:37.720283379 Z
-  _version: 0.10.2/0.42.1/
-  latest: 51468113826
-  repository: 551486781
-  what: events-were-scanned
-  where: github
-- _id: 4
-  _time: 2025-07-02 16:31:38.036137329 Z
-  _version: 0.10.2/0.42.1/
-  latest: 51452013225
-  repository: 386420319
-  what: events-were-scanned
-  where: github
-- _id: 5
-  _time: 2025-07-02 16:31:38.045380905 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-06-04 16:31:38.045489979 Z
-  what: quantity-of-deliverables
-  when: 2025-07-02 16:31:38.045464181 Z
-- _id: 6
-  _time: 2025-07-02 16:31:38.049463265 Z
+  _time: 2025-07-02 17:23:21.546014751 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-07-02 16:31:38.049557731 Z
-- _id: 7
-  _time: 2025-07-02 16:31:38.052095514 Z
+  when: 2025-07-02 17:23:21.546164220 Z
+- _id: 2
+  _time: 2025-07-02 17:23:21.550541687 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-04 16:31:38.052199889 Z
+  since: 2025-06-04 17:23:21.550682941 Z
+  what: quantity-of-deliverables
+  when: 2025-07-02 17:23:21.550648707 Z
+- _id: 3
+  _time: 2025-07-02 17:23:21.554674399 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-06-04 17:23:21.554811334 Z
   what: quality-of-service
-  when: 2025-07-02 16:31:38.052176205 Z
-- _id: 8
-  _time: 2025-07-02 16:31:38.055440025 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-07-02 16:31:38.055585196 Z
-  where: github
-  who: 526301
+  when: 2025-07-02 17:23:21.554778984 Z
