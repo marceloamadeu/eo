@@ -1,130 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="2810">
+<fb version="0.10.2" size="789">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">8.397160494</seconds>
+    <seconds t="F">32.761627275</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-02T09:48:24Z</when>
+    <when t="T">2025-07-02T10:28:21Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
+    <_time t="T">2025-07-02T10:28:21Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/org.eolang-eo-parser-0.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#45 has been opened by @renovate[bot].</details>
-    <event_id t="I">50621690741</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">45</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-07T00:43:43Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-06-04T10:28:21Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-07-02T10:28:21Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
+    <_time t="T">2025-07-02T10:28:21Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/org.apache.maven-maven-plugin-api-3.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#44 has been opened by @renovate[bot].</details>
-    <event_id t="I">50621689815</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">44</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-07T00:43:38Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-06-04T10:28:21Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-02T10:28:21Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/org.apache.maven-maven-model-3.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#43 has been opened by @renovate[bot].</details>
-    <event_id t="I">50614902203</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">43</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-06T19:25:16Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/org.apache.maven-maven-core-3.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#42 has been opened by @renovate[bot].</details>
-    <event_id t="I">50614900254</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">42</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-06T19:25:12Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/com.jcabi-parent-0.x</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#41 has been opened by @renovate[bot].</details>
-    <event_id t="I">50470316765</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">41</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-06-03T17:56:39Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <latest t="I">51295018890</latest>
-    <repository t="I">955159947</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
+    <_time t="T">2025-07-02T10:28:21Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-02T09:48:24Z</when>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-06-04T09:48:24Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-02T09:48:24Z</when>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-06-04T09:48:24Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-07-02T09:48:24Z</when>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-07-02T09:48:24Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-07-02T09:48:24Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <when t="T">2025-07-02T10:28:21Z</when>
   </f>
 </fb>
