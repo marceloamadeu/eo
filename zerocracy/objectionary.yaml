@@ -2,33 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error:
-  - 'GET https://api.github.com/repos/objectionary/demu: 403 - API rate limit exceeded
-    for 52.224.233.25. (But here''s the good news: Authenticated requests get a higher
-    rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
-  - 'GET https://api.github.com/repos/objectionary/eo-phi-normalizer: 403 - API rate
-    limit exceeded for 52.224.233.25. (But here''s the good news: Authenticated requests
-    get a higher rate limit. Check out the documentation for more details.) // See:
-    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
+    rate limit exceeded for 104.210.38.151. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 277.118101513
+  seconds: 74.204856698
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-03 14:29:16.191850777 Z
+  when: 2025-07-03 14:48:24.722403522 Z
 - _id: 1
-  _time: 2025-07-03 14:26:25.108764755 Z
+  _time: 2025-07-03 14:48:24.638766963 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-05 14:26:25.108963589 Z
+  since: 2025-06-05 14:48:24.638952330 Z
   what: quality-of-service
-  when: 2025-07-03 14:26:25.108925297 Z
+  when: 2025-07-03 14:48:24.638914700 Z
 - _id: 2
-  _time: 2025-07-03 14:29:16.179130942 Z
+  _time: 2025-07-03 14:48:24.717977654 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-07-03 14:29:16.179269212 Z
+  when: 2025-07-03 14:48:24.718070498 Z
 - _id: 3
-  _time: 2025-07-03 14:29:16.187538779 Z
+  _time: 2025-07-03 14:48:24.721446919 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-05 14:29:16.187681968 Z
+  since: 2025-06-05 14:48:24.721551124 Z
   what: quantity-of-deliverables
-  when: 2025-07-03 14:29:16.187647042 Z
+  when: 2025-07-03 14:48:24.721527019 Z
