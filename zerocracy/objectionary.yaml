@@ -2,171 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 15.85326807
+  seconds: 7.316198007
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-05 14:23:28.893929332 Z
+  when: 2025-07-05 14:44:30.735260537 Z
 - _id: 1
-  _time: 2025-07-05 14:23:21.411484516 Z
+  _time: 2025-07-05 14:44:30.717286914 Z
   _version: 0.10.2/0.42.1/
-  branch: renovate/junit-framework-monorepo
-  details: The pull request objectionary/home#335 has been opened by @renovate[bot].
-  event_id: 51706058525
-  event_type: PullRequestEvent
-  issue: 335
-  repository: 13623548
-  what: pull-was-opened
-  when: 2025-07-04 14:47:10.000000000 Z
-  where: github
-  who: 29139614
+  since: 2025-06-07 14:44:30.717476919 Z
+  what: quantity-of-deliverables
+  when: 2025-07-05 14:44:30.717438808 Z
 - _id: 2
-  _time: 2025-07-05 14:23:21.525269587 Z
-  _version: 0.10.2/0.42.1/
-  commit: 39c6c736fea6f89c22647f30afaf7f06fa5bddf5
-  default_branch: master
-  details: 'A new Git push #25243149508 has arrived to objectionary/home, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51586703343
-  event_type: PushEvent
-  push_id: 25243149508
-  ref: refs/heads/master
-  repository: 13623548
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-02 04:21:13.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2025-07-05 14:23:21.662799328 Z
-  _version: 0.10.2/0.42.1/
-  commit: 5a7e4dac736d5bcaaad1d495faa035cca4be0e9f
-  default_branch: master
-  details: 'A new Git push #25243130136 has arrived to objectionary/home, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51586665452
-  event_type: PushEvent
-  push_id: 25243130136
-  ref: refs/heads/master
-  repository: 13623548
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-02 04:19:29.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-07-05 14:23:21.770239848 Z
-  _version: 0.10.2/0.42.1/
-  commit: 8b9449a8b1244a37ecc7a790745f3c3085d61993
-  default_branch: master
-  details: 'A new Git push #25243097111 has arrived to objectionary/home, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51586598909
-  event_type: PushEvent
-  push_id: 25243097111
-  ref: refs/heads/master
-  repository: 13623548
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-02 04:16:33.000000000 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2025-07-05 14:23:21.867429855 Z
-  _version: 0.10.2/0.42.1/
-  commit: fcd227379fa3bdc9f1cb270aebca2307c57d0879
-  default_branch: master
-  details: 'A new Git push #25243080538 has arrived to objectionary/home, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51586567025
-  event_type: PushEvent
-  push_id: 25243080538
-  ref: refs/heads/master
-  repository: 13623548
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-02 04:15:07.000000000 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2025-07-05 14:23:22.076644410 Z
-  _version: 0.10.2/0.42.1/
-  commits: 798
-  contributors:
-  - 526301
-  - 33455325
-  - 37025995
-  - 29139614
-  - 8086956
-  - 40247101
-  - 46539785
-  - 51804353
-  - 45946541
-  - 70313618
-  details: A new release 'New release for eo-0.57.0' has been published in objectionary/home
-    by @rultor.
-  event_id: 51586266357
-  event_type: ReleaseEvent
-  hoc: 19809
-  last_commit: 9c9cce88d762bddfc93c19ee2f4f292710705fc3
-  release: 229286748
-  repository: 13623548
-  tag: 0.57.0
-  what: release-published
-  when: 2025-07-02 04:01:53.000000000 Z
-  where: github
-  who: 8086956
-- _id: 7
-  _time: 2025-07-05 14:23:28.285011240 Z
-  _version: 0.10.2/0.42.1/
-  details: A new tag '0.57.0' has been created in objectionary/home by @rultor.
-  event_id: 51586254995
-  event_type: CreateEvent
-  repository: 13623548
-  tag: 0.57.0
-  what: tag-was-created
-  when: 2025-07-02 04:01:26.000000000 Z
-  where: github
-  who: 8086956
-- _id: 8
-  _time: 2025-07-05 14:23:28.867252401 Z
+  _time: 2025-07-05 14:44:30.726760017 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-07-05 14:23:28.867352749 Z
-- _id: 9
-  _time: 2025-07-05 14:23:28.871957866 Z
+  when: 2025-07-05 14:44:30.726871816 Z
+- _id: 3
+  _time: 2025-07-05 14:44:30.729752564 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-07 14:23:28.872084703 Z
+  since: 2025-06-07 14:44:30.729894068 Z
   what: quality-of-service
-  when: 2025-07-05 14:23:28.872056029 Z
-- _id: 10
-  _time: 2025-07-05 14:23:28.876409636 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-06-07 14:23:28.876513220 Z
-  what: quantity-of-deliverables
-  when: 2025-07-05 14:23:28.876489005 Z
-- _id: 11
-  _time: 2025-07-05 14:23:28.883729237 Z
-  _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-07-05 14:23:28.883869579 Z
-  where: github
-  who: 29139614
-- _id: 12
-  _time: 2025-07-05 14:23:28.884686406 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-07-05 14:23:28.884818663 Z
-  where: github
-  who: 526301
-- _id: 13
-  _time: 2025-07-05 14:23:28.886215364 Z
-  _version: 0.10.2/0.42.1/
-  name: rultor
-  what: who-has-name
-  when: 2025-07-05 14:23:28.886346308 Z
-  where: github
-  who: 8086956
+  when: 2025-07-05 14:44:30.729859914 Z
