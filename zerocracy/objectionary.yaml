@@ -2,69 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 36.947569226
+  seconds: 9.96211284
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-12 19:20:14.569273381 Z
+  when: 2025-07-12 19:40:12.203426452 Z
 - _id: 1
-  _time: 2025-07-12 19:19:55.183144338 Z
+  _time: 2025-07-12 19:40:12.191666177 Z
   _version: 0.10.2/0.42.1/
-  commit: c942f2f5060e1914528659bcdb50ad8ca1167511
-  default_branch: master
-  details: 'A new Git push #25435633864 has arrived to objectionary/benchmark, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51970890505
-  event_type: PushEvent
-  push_id: 25435633864
-  ref: refs/heads/master
-  repository: 733919301
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-11 11:00:09.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2025-07-12 19:19:55.634028744 Z
-  _version: 0.10.2/0.42.1/
-  commit: 7404cfeb77b66a918a59728354b09d53fee73d9a
-  default_branch: master
-  details: 'A new Git push #25434408931 has arrived to objectionary/benchmark, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 51968399173
-  event_type: PushEvent
-  push_id: 25434408931
-  ref: refs/heads/master
-  repository: 733919301
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-07-11 09:55:24.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2025-07-12 19:19:56.921674464 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-06-14 19:19:56.921792023 Z
+  since: 2025-06-14 19:40:12.191855752 Z
   what: quantity-of-deliverables
-  when: 2025-07-12 19:19:56.921768028 Z
-- _id: 4
-  _time: 2025-07-12 19:19:56.931102338 Z
+  when: 2025-07-12 19:40:12.191818102 Z
+- _id: 2
+  _time: 2025-07-12 19:40:12.199319626 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-14 19:19:56.931207013 Z
-  what: quality-of-service
-  when: 2025-07-12 19:19:56.931182688 Z
-- _id: 5
-  _time: 2025-07-12 19:19:56.936132180 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-07-12 19:19:56.936270889 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2025-07-12 19:20:14.568080815 Z
-  _version: 0.10.2/0.42.1/
-  total_releases: 639
   what: dimensions-of-terrain
-  when: 2025-07-12 19:19:56.939251365 Z
+  when: 2025-07-12 19:40:12.199431275 Z
+- _id: 3
+  _time: 2025-07-12 19:40:12.201623219 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-06-14 19:40:12.201766687 Z
+  what: quality-of-service
+  when: 2025-07-12 19:40:12.201732263 Z

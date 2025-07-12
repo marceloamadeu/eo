@@ -1,84 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="2067">
+<fb version="0.10.2" size="791">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">36.947569226</seconds>
+    <seconds t="F">9.96211284</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-07-12T19:20:14Z</when>
+    <when t="T">2025-07-12T19:40:12Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-07-12T19:19:55Z</_time>
+    <_time t="T">2025-07-12T19:40:12Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">c942f2f5060e1914528659bcdb50ad8ca1167511</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #25435633864 has arrived to objectionary/benchmark, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">51970890505</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">25435633864</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">733919301</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-07-11T11:00:09Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-06-14T19:40:12Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-07-12T19:40:12Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-07-12T19:19:55Z</_time>
+    <_time t="T">2025-07-12T19:40:12Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">7404cfeb77b66a918a59728354b09d53fee73d9a</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #25434408931 has arrived to objectionary/benchmark, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">51968399173</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">25434408931</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">733919301</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-07-11T09:55:24Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2025-07-12T19:40:12Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-07-12T19:19:56Z</_time>
+    <_time t="T">2025-07-12T19:40:12Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-06-14T19:19:56Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-07-12T19:19:56Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-07-12T19:19:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-06-14T19:19:56Z</since>
+    <since t="T">2025-06-14T19:40:12Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2025-07-12T19:19:56Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-07-12T19:19:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-07-12T19:19:56Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-07-12T19:20:14Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <total_releases t="I">639</total_releases>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-07-12T19:19:56Z</when>
+    <when t="T">2025-07-12T19:40:12Z</when>
   </f>
 </fb>
