@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/eo-intellij-plugin: 403 -
+    API rate limit exceeded for 135.232.201.32. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 7.262948644
+  seconds: 128.55657692
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-26 17:46:10.735940287 Z
+  when: 2025-07-26 18:37:12.398942980 Z
 - _id: 1
-  _time: 2025-07-26 17:46:10.722458522 Z
+  _time: 2025-07-26 18:37:12.390176514 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-28 17:46:10.722645072 Z
+  since: 2025-06-28 18:37:12.390405452 Z
   what: quantity-of-deliverables
-  when: 2025-07-26 17:46:10.722607551 Z
+  when: 2025-07-26 18:37:12.390366089 Z
 - _id: 2
-  _time: 2025-07-26 17:46:10.731061401 Z
+  _time: 2025-07-26 18:37:12.391810301 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-06-28 17:46:10.731200923 Z
+  since: 2025-06-28 18:37:12.391945074 Z
   what: quality-of-service
-  when: 2025-07-26 17:46:10.731166668 Z
+  when: 2025-07-26 18:37:12.391912002 Z
 - _id: 3
-  _time: 2025-07-26 17:46:10.734155591 Z
+  _time: 2025-07-26 18:37:12.393791382 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-07-26 17:46:10.734235120 Z
+  when: 2025-07-26 18:37:12.393866683 Z
