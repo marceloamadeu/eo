@@ -2,29 +2,46 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/sandbox: 403 - API rate limit
-    exceeded for 68.220.59.49. (But here''s the good news: Authenticated requests
-    get a higher rate limit. Check out the documentation for more details.) // See:
-    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 74.302906309
+  seconds: 9.454051027
   version: 0.42.1
   what: judges-summary
-  when: 2025-07-29 17:28:23.172831599 Z
+  when: 2025-07-29 17:49:56.923157092 Z
 - _id: 1
-  _time: 2025-07-29 17:28:23.165514101 Z
+  _time: 2025-07-29 17:49:56.257792592 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-07-01 17:28:23.165735392 Z
-  what: quantity-of-deliverables
-  when: 2025-07-29 17:28:23.165664681 Z
+  details: The issue objectionary/eo-lsp-server#47 has been opened by @yegor256.
+  event_id: 52590341771
+  event_type: IssuesEvent
+  issue: 47
+  repository: 970961472
+  what: issue-was-opened
+  when: 2025-07-27 09:00:02.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-07-29 17:28:23.167527299 Z
+  _time: 2025-07-29 17:49:56.906807736 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-07-01 17:28:23.167663854 Z
+  since: 2025-07-01 17:49:56.906926368 Z
   what: quality-of-service
-  when: 2025-07-29 17:28:23.167632155 Z
+  when: 2025-07-29 17:49:56.906902584 Z
 - _id: 3
-  _time: 2025-07-29 17:28:23.171868426 Z
+  _time: 2025-07-29 17:49:56.911657499 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-07-01 17:49:56.911759049 Z
+  what: quantity-of-deliverables
+  when: 2025-07-29 17:49:56.911735405 Z
+- _id: 4
+  _time: 2025-07-29 17:49:56.915386545 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-07-29 17:28:23.171947905 Z
+  when: 2025-07-29 17:49:56.915461866 Z
+- _id: 5
+  _time: 2025-07-29 17:49:56.918841903 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2025-07-29 17:49:56.919029363 Z
+  where: github
+  who: 526301
