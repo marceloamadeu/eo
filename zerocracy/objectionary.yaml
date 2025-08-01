@@ -2,80 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'Judge github-events stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 180.02665815
+  seconds: 8.528308997
   version: 0.42.1
   what: judges-summary
-  when: 2025-08-01 02:32:17.845301546 Z
+  when: 2025-08-01 04:06:25.021225432 Z
 - _id: 1
-  _time: 2025-08-01 02:31:31.290339705 Z
+  _time: 2025-08-01 04:06:25.010551927 Z
   _version: 0.10.2/0.42.1/
-  branch: patch-1
-  details: The pull request objectionary/hone-maven-plugin#235 has been opened by
-    @maxonfjvipon.
-  event_id: 52791676109
-  event_type: PullRequestEvent
-  issue: 235
-  repository: 840332960
-  what: pull-was-opened
-  when: 2025-07-31 15:22:29.000000000 Z
-  where: github
-  who: 37025995
-- _id: 2
-  _time: 2025-08-01 02:31:31.365171155 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/hone-maven-plugin#234 has been opened by @maxonfjvipon.
-  event_id: 52786750437
-  event_type: IssuesEvent
-  issue: 234
-  repository: 840332960
-  what: issue-was-opened
-  when: 2025-07-31 13:47:39.000000000 Z
-  where: github
-  who: 37025995
-- _id: 3
-  _time: 2025-08-01 02:31:31.372302879 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/hone-maven-plugin#231 has been closed by @yegor256.
-  event_id: 52783143404
-  event_type: IssuesEvent
-  issue: 231
-  repository: 840332960
-  what: issue-was-closed
-  when: 2025-07-31 12:36:06.000000000 Z
-  where: github
-  who: 526301
-- _id: 4
-  _time: 2025-08-01 02:32:17.831545669 Z
-  _version: 0.10.2/0.42.1/
-  name: maxonfjvipon
-  what: who-has-name
-  when: 2025-08-01 02:32:17.831712981 Z
-  where: github
-  who: 37025995
-- _id: 5
-  _time: 2025-08-01 02:32:17.833250352 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-08-01 02:32:17.833386666 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2025-08-01 02:32:17.837772847 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-07-04 02:32:17.837871030 Z
+  since: 2025-07-04 04:06:25.010764734 Z
   what: quality-of-service
-  when: 2025-08-01 02:32:17.837847936 Z
-- _id: 7
-  _time: 2025-08-01 02:32:17.841257122 Z
+  when: 2025-08-01 04:06:25.010726333 Z
+- _id: 2
+  _time: 2025-08-01 04:06:25.016614155 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-07-04 04:06:25.016747464 Z
+  what: quantity-of-deliverables
+  when: 2025-08-01 04:06:25.016722157 Z
+- _id: 3
+  _time: 2025-08-01 04:06:25.017807125 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-08-01 02:32:17.841331610 Z
-- _id: 8
-  _time: 2025-08-01 02:32:17.844252263 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-07-04 02:32:17.844359994 Z
-  what: quantity-of-deliverables
-  when: 2025-08-01 02:32:17.844336180 Z
+  when: 2025-08-01 04:06:25.017883918 Z
