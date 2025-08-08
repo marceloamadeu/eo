@@ -2,26 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 54.212450189
+  seconds: 7.521127736
   version: 0.42.1
   what: judges-summary
-  when: 2025-08-08 10:30:23.286535420 Z
+  when: 2025-08-08 10:53:08.337302933 Z
 - _id: 1
-  _time: 2025-08-08 10:30:23.274871451 Z
+  _time: 2025-08-08 10:53:08.331334477 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-07-11 10:30:23.274995102 Z
+  since: 2025-07-11 10:53:08.331541343 Z
   what: quality-of-service
-  when: 2025-08-08 10:30:23.274969304 Z
+  when: 2025-08-08 10:53:08.331503693 Z
 - _id: 2
-  _time: 2025-08-08 10:30:23.278131826 Z
+  _time: 2025-08-08 10:53:08.333617330 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-07-11 10:53:08.333714371 Z
+  what: quantity-of-deliverables
+  when: 2025-08-08 10:53:08.333691949 Z
+- _id: 3
+  _time: 2025-08-08 10:53:08.335660947 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-08-08 10:30:23.278211286 Z
-- _id: 3
-  _time: 2025-08-08 10:30:23.280744708 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-07-11 10:30:23.280849995 Z
-  what: quantity-of-deliverables
-  when: 2025-08-08 10:30:23.280826231 Z
+  when: 2025-08-08 10:53:08.335737770 Z
