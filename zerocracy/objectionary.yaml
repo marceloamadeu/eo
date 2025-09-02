@@ -2,25 +2,46 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 19.943181581
+  seconds: 15.714591723
   version: 0.42.1
   what: judges-summary
-  when: 2025-09-02 07:42:06.082947284 Z
+  when: 2025-09-02 08:32:38.231584915 Z
 - _id: 1
-  _time: 2025-09-02 07:42:06.065911432 Z
+  _time: 2025-09-02 08:32:37.136749477 Z
+  _version: 0.10.2/0.42.1/
+  details: The issue objectionary/phino#240 has been closed by @maxonfjvipon.
+  event_id: 54089594837
+  event_type: IssuesEvent
+  issue: 240
+  repository: 977982682
+  what: issue-was-closed
+  when: 2025-09-01 12:29:09.000000000 Z
+  where: github
+  who: 37025995
+- _id: 2
+  _time: 2025-09-02 08:32:38.218930629 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-05 08:32:38.219124591 Z
+  what: quantity-of-deliverables
+  when: 2025-09-02 08:32:38.219078144 Z
+- _id: 3
+  _time: 2025-09-02 08:32:38.221337936 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-09-02 07:42:06.066068497 Z
-- _id: 2
-  _time: 2025-09-02 07:42:06.071131048 Z
+  when: 2025-09-02 08:32:38.221475182 Z
+- _id: 4
+  _time: 2025-09-02 08:32:38.222968697 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-05 07:42:06.071276080 Z
-  what: quantity-of-deliverables
-  when: 2025-09-02 07:42:06.071242547 Z
-- _id: 3
-  _time: 2025-09-02 07:42:06.074454415 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-08-05 07:42:06.074618373 Z
+  since: 2025-08-05 08:32:38.223073923 Z
   what: quality-of-service
-  when: 2025-09-02 07:42:06.074585561 Z
+  when: 2025-09-02 08:32:38.223050149 Z
+- _id: 5
+  _time: 2025-09-02 08:32:38.227865170 Z
+  _version: 0.10.2/0.42.1/
+  name: maxonfjvipon
+  what: who-has-name
+  when: 2025-09-02 08:32:38.228017965 Z
+  where: github
+  who: 37025995
