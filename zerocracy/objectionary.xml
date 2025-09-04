@@ -1,91 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="2022">
+<fb version="0.10.2" size="794">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">17.374808875</seconds>
+    <seconds t="F">8.799175772</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
+    <when t="T">2025-09-04T12:45:53Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-09-04T11:39:54Z</_time>
+    <_time t="T">2025-09-04T12:45:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <comments t="I">3</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/reducing-programs-to-objects#54 has been reviewed by @yegor256 with 20 HoC and 3 comments.</details>
-    <event_id t="I">53237088793</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">10</files>
-    <hoc t="I">20</hoc>
-    <issue t="I">54</issue>
-    <repository t="I">493235807</repository>
-    <review_comments t="I">0</review_comments>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-08-12T03:01:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <since t="T">2025-08-07T12:45:53Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-09-04T12:45:53Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-09-04T11:39:55Z</_time>
+    <_time t="T">2025-09-04T12:45:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">renovate/actions-checkout-5.x</branch>
-    <details t="S">The pull request objectionary/reducing-programs-to-objects#54 has been opened by @renovate[bot].</details>
-    <event_id t="I">53220750904</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">54</issue>
-    <repository t="I">493235807</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-08-11T18:02:53Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <since t="T">2025-08-07T12:45:53Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-09-04T12:45:53Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-09-04T11:39:56Z</_time>
+    <_time t="T">2025-09-04T12:45:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-09-04T11:39:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-08-07T11:39:56Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-09-04T11:39:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-08-07T11:39:56Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-09-04T11:39:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-09-04T11:39:56Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">renovate[bot]</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-09-04T11:39:56Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
+    <when t="T">2025-09-04T12:45:53Z</when>
   </f>
 </fb>
