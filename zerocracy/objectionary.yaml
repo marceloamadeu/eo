@@ -2,121 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'key not found: "data"'
   inserted: 8
-  seconds: 16.368698176
+  seconds: 10.596985858
   version: 0.42.1
   what: judges-summary
-  when: 2025-09-07 10:41:00.297862899 Z
+  when: 2025-09-07 11:17:18.216761003 Z
 - _id: 1
-  _time: 2025-09-07 10:40:56.663196828 Z
+  _time: 2025-09-07 11:17:18.199965361 Z
   _version: 0.10.2/0.42.1/
-  branch: renovate/actions-setup-java-5.x
-  details: The pull request objectionary/eo-json#33 has been opened by @renovate[bot].
-  event_id: 53637069278
-  event_type: PullRequestEvent
-  issue: 33
-  repository: 482612876
-  what: pull-was-opened
-  when: 2025-08-21 06:37:41.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2025-09-07 10:40:56.810900498 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/actions-checkout-5.x
-  details: The pull request objectionary/eo-json#32 has been opened by @renovate[bot].
-  event_id: 53210577321
-  event_type: PullRequestEvent
-  issue: 32
-  repository: 482612876
-  what: pull-was-opened
-  when: 2025-08-11 14:26:40.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2025-09-07 10:40:56.819947373 Z
-  _version: 0.10.2/0.42.1/
-  latest: 54339516901
-  repository: 482612876
-  what: events-were-scanned
-  where: github
-- _id: 4
-  _time: 2025-09-07 10:40:58.498044190 Z
-  _version: 0.10.2/0.42.1/
-  commit: 84bebe684e88ad443adcf625c35206d01080623b
-  default_branch: master
-  details: 'A new Git push #26636240418 has arrived to objectionary/hone-maven-plugin,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 54349484665
-  event_type: PushEvent
-  push_id: 26636240418
-  ref: refs/heads/master
-  repository: 840332960
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-09-07 05:54:11.000000000 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2025-09-07 10:40:58.785885675 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/crate-ci-typos-1.x
-  details: The pull request objectionary/hone-maven-plugin#323 has been opened by
-    @renovate[bot].
-  event_id: 54264449108
-  event_type: PullRequestEvent
-  issue: 323
-  repository: 840332960
-  what: pull-was-opened
-  when: 2025-09-04 17:40:30.000000000 Z
-  where: github
-  who: 29139614
-- _id: 6
-  _time: 2025-09-07 10:40:58.919460183 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/hadolint-hadolint-action-3.x
-  details: The pull request objectionary/hone-maven-plugin#319 has been opened by
-    @renovate[bot].
-  event_id: 54207423185
-  event_type: PullRequestEvent
-  issue: 319
-  repository: 840332960
-  what: pull-was-opened
-  when: 2025-09-03 17:27:47.000000000 Z
-  where: github
-  who: 29139614
-- _id: 7
-  _time: 2025-09-07 10:41:00.273156330 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-08-10 10:41:00.273337569 Z
+  since: 2025-08-10 11:17:18.200153222 Z
   what: quantity-of-deliverables
-  when: 2025-09-07 10:41:00.273297965 Z
-- _id: 8
-  _time: 2025-09-07 10:41:00.278542193 Z
+  when: 2025-09-07 11:17:18.200115431 Z
+- _id: 2
+  _time: 2025-09-07 11:17:18.212179413 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-09-07 10:41:00.278688166 Z
-- _id: 9
-  _time: 2025-09-07 10:41:00.284800043 Z
+  when: 2025-09-07 11:17:18.212303424 Z
+- _id: 3
+  _time: 2025-09-07 11:17:18.213787383 Z
   _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2025-09-07 10:41:00.285019562 Z
-  where: github
-  who: 29139614
-- _id: 10
-  _time: 2025-09-07 10:41:00.286410320 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2025-09-07 10:41:00.286622667 Z
-  where: github
-  who: 526301
-- _id: 11
-  _time: 2025-09-07 10:41:00.289780776 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-08-10 10:41:00.289941156 Z
+  since: 2025-08-10 11:17:18.213923978 Z
   what: quality-of-service
-  when: 2025-09-07 10:41:00.289900861 Z
+  when: 2025-09-07 11:17:18.213891217 Z
