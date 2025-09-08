@@ -2,25 +2,99 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 8.885040614
+  seconds: 73.406720457
   version: 0.42.1
   what: judges-summary
-  when: 2025-09-08 11:40:10.788798881 Z
+  when: 2025-09-08 12:52:34.483276679 Z
 - _id: 1
-  _time: 2025-09-08 11:40:10.777701451 Z
+  _time: 2025-09-08 12:51:30.148619766 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-11 11:40:10.777885653 Z
-  what: quality-of-service
-  when: 2025-09-08 11:40:10.777848484 Z
+  commit: ffc75eaa493ef8f96eba601cae97d20737f00bdd
+  default_branch: master
+  details: 'A new Git push #26636239230 has arrived to objectionary/home, made by
+    @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 54349482882
+  event_type: PushEvent
+  push_id: 26636239230
+  ref: refs/heads/master
+  repository: 13623548
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-09-07 05:54:00.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-09-08 11:40:10.781507109 Z
+  _time: 2025-09-08 12:51:30.530063787 Z
+  _version: 0.10.2/0.42.1/
+  commits: 841
+  contributors:
+  - 526301
+  - 33455325
+  - 37025995
+  - 29139614
+  - 8086956
+  - 40247101
+  - 46539785
+  - 51804353
+  - 45946541
+  - 70313618
+  details: A new release 'New release for eo-0.58.3' has been published in objectionary/home
+    by @rultor.
+  event_id: 54292452701
+  event_type: ReleaseEvent
+  hoc: 13839
+  last_commit: 9c9cce88d762bddfc93c19ee2f4f292710705fc3
+  release: 245008995
+  repository: 13623548
+  tag: 0.58.3
+  what: release-published
+  when: 2025-09-05 08:44:53.000000000 Z
+  where: github
+  who: 8086956
+- _id: 3
+  _time: 2025-09-08 12:51:37.115076850 Z
+  _version: 0.10.2/0.42.1/
+  details: A new tag '0.58.3' has been created in objectionary/home by @rultor.
+  event_id: 54292390866
+  event_type: CreateEvent
+  repository: 13623548
+  tag: 0.58.3
+  what: tag-was-created
+  when: 2025-09-05 08:43:23.000000000 Z
+  where: github
+  who: 8086956
+- _id: 4
+  _time: 2025-09-08 12:52:34.290949065 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-11 12:52:34.291069410 Z
+  what: quantity-of-deliverables
+  when: 2025-09-08 12:52:34.291044263 Z
+- _id: 5
+  _time: 2025-09-08 12:52:34.293127311 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-09-08 11:40:10.781640227 Z
-- _id: 3
-  _time: 2025-09-08 11:40:10.786356029 Z
+  when: 2025-09-08 12:52:34.293203283 Z
+- _id: 6
+  _time: 2025-09-08 12:52:34.358272395 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-11 11:40:10.786484598 Z
-  what: quantity-of-deliverables
-  when: 2025-09-08 11:40:10.786461325 Z
+  name: yegor256
+  what: who-has-name
+  when: 2025-09-08 12:52:34.358416685 Z
+  where: github
+  who: 526301
+- _id: 7
+  _time: 2025-09-08 12:52:34.411527999 Z
+  _version: 0.10.2/0.42.1/
+  name: rultor
+  what: who-has-name
+  when: 2025-09-08 12:52:34.411716812 Z
+  where: github
+  who: 8086956
+- _id: 8
+  _time: 2025-09-08 12:52:34.413809017 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-11 12:52:34.413909485 Z
+  what: quality-of-service
+  when: 2025-09-08 12:52:34.413885990 Z
