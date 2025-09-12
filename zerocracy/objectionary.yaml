@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/eo-book: 403 - API rate limit
+    exceeded for 9.234.151.23. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 9.41235035
+  seconds: 123.05373928
   version: 0.42.1
   what: judges-summary
-  when: 2025-09-12 07:39:20.008971195 Z
+  when: 2025-09-12 08:32:00.466687099 Z
 - _id: 1
-  _time: 2025-09-12 07:39:19.996658571 Z
+  _time: 2025-09-12 08:32:00.423651292 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-15 07:39:19.996842983 Z
+  since: 2025-08-15 08:32:00.423916788 Z
   what: quality-of-service
-  when: 2025-09-12 07:39:19.996805143 Z
+  when: 2025-09-12 08:32:00.423860122 Z
 - _id: 2
-  _time: 2025-09-12 07:39:20.000369344 Z
+  _time: 2025-09-12 08:32:00.454429855 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-15 08:32:00.454531455 Z
+  what: quantity-of-deliverables
+  when: 2025-09-12 08:32:00.454508573 Z
+- _id: 3
+  _time: 2025-09-12 08:32:00.463433161 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-09-12 07:39:20.000446538 Z
-- _id: 3
-  _time: 2025-09-12 07:39:20.001702977 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-08-15 07:39:20.001797833 Z
-  what: quantity-of-deliverables
-  when: 2025-09-12 07:39:20.001775461 Z
+  when: 2025-09-12 08:32:00.463520825 Z
