@@ -1,289 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="7014">
+<fb version="0.10.2" size="791">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">33.305547446</seconds>
+    <seconds t="F">8.774088731</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-09-20T17:39:18Z</when>
+    <when t="T">2025-09-20T18:29:05Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-09-20T17:39:14Z</_time>
+    <_time t="T">2025-09-20T18:29:05Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">917b211271294a6c35db9d169394e15c1bd04590</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26895163394 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54874282776</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26895163394</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-18T10:46:57Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
+    <since t="T">2025-08-23T18:29:05Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2025-09-20T18:29:05Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-09-20T17:39:15Z</_time>
+    <_time t="T">2025-09-20T18:29:05Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">aeac830976be0cbe35571d9aceacad9aaaed3731</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26876029424 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54835062393</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26876029424</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T16:14:02Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
+    <since t="T">2025-08-23T18:29:05Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-09-20T18:29:05Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2025-09-20T17:39:15Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">7be9bb84ddd90c054403a699c8eb4dc08dc6c7a4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26875026060 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54832915038</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26875026060</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T15:30:51Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-09-20T17:39:15Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">38269809509ff54ff40a6aa9d1300de9b86dd48c</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26872714357 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54827864538</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26872714357</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T14:04:31Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-09-20T17:39:15Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">0ecf07b0beda8491165f219aa2e7daf1430b7206</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26872088173 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54826492723</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26872088173</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T13:41:22Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-09-20T17:39:16Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">8e074bea5fb25daaec14032d98c185a17268d192</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26871648704 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54825532085</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26871648704</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T13:25:05Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-09-20T17:39:16Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">2fdf11bd919ae75ff04b90d59f63b337cfdc8b79</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26869590435 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54821207499</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26869590435</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-17T12:07:02Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-09-20T17:39:16Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">e3a97538a12765af056d101a1805b6ac3ed2af92</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26846329919 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54773044094</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26846329919</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-16T14:42:27Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-09-20T17:39:16Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">00eeb74a307e0407e69f1636714b07806384f409</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26845528276 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54771321000</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26845528276</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-16T14:13:10Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-09-20T17:39:17Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">00a0b58f0ce12820df36cde6625e72ac8333d268</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26845164492 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54770528961</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26845164492</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-16T13:59:55Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-09-20T17:39:17Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">1ffdfcf24c94d97884db35c4062ce3b159c34988</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26845096445 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54770379424</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26845096445</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-16T13:57:20Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-09-20T17:39:17Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">b69a151757ffa264be57e572ab1979204542cc52</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26845003890 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54770174483</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26845003890</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-16T13:53:51Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">13</_id>
-    <_time t="T">2025-09-20T17:39:17Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <commit t="S">3ff697cccc137ab0e90f8c154d0ebc558bc5afb3</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #26770260464 has arrived to objectionary/speedment, made by @maxonfjvipon (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">54626322987</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <push_id t="I">26770260464</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">1049128198</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-09-12T16:14:25Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">14</_id>
-    <_time t="T">2025-09-20T17:39:18Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <latest t="I">54874294562</latest>
-    <repository t="I">1049128198</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">15</_id>
-    <_time t="T">2025-09-20T17:39:18Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">maxonfjvipon</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2025-09-20T17:39:18Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">16</_id>
-    <_time t="T">2025-09-20T17:39:18Z</_time>
+    <_time t="T">2025-09-20T18:29:05Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-09-20T17:39:18Z</when>
-  </f>
-  <f>
-    <_id t="I">17</_id>
-    <_time t="T">2025-09-20T17:39:18Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-08-23T17:39:18Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-09-20T17:39:18Z</when>
-  </f>
-  <f>
-    <_id t="I">18</_id>
-    <_time t="T">2025-09-20T17:39:18Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2025-08-23T17:39:18Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-09-20T17:39:18Z</when>
+    <when t="T">2025-09-20T18:29:05Z</when>
   </f>
 </fb>
