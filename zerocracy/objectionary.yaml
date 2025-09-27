@@ -2,25 +2,62 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'Judge quantity-of-deliverables stopped by timeout after 3m0s: execution
+    expired'
   inserted: 8
-  seconds: 24.9742497
+  seconds: 190.333982786
   version: 0.42.1
   what: judges-summary
-  when: 2025-09-27 16:43:17.002194632 Z
+  when: 2025-09-27 17:21:23.334328823 Z
 - _id: 1
-  _time: 2025-09-27 16:43:16.993662018 Z
+  _time: 2025-09-27 17:18:22.999050809 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-30 16:43:16.993840890 Z
-  what: quality-of-service
-  when: 2025-09-27 16:43:16.993803851 Z
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/game-of-life#43 has been opened by @renovate[bot].
+  event_id: 53982087410
+  event_type: PullRequestEvent
+  issue: 43
+  repository: 501942888
+  what: pull-was-opened
+  when: 2025-08-29 01:11:16.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2025-09-27 16:43:16.996391967 Z
+  _time: 2025-09-27 17:18:23.079068234 Z
+  _version: 0.10.2/0.42.1/
+  latest: 54342430701
+  repository: 501942888
+  what: events-were-scanned
+  where: github
+- _id: 3
+  _time: 2025-09-27 17:18:23.313115215 Z
+  _version: 0.10.2/0.42.1/
+  latest: 54214375923
+  repository: 490221501
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2025-09-27 17:18:23.316030324 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-09-27 16:43:16.996472617 Z
-- _id: 3
-  _time: 2025-09-27 16:43:16.999701382 Z
+  when: 2025-09-27 17:18:23.316110023 Z
+- _id: 5
+  _time: 2025-09-27 17:18:23.325858669 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-08-30 16:43:16.999815304 Z
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-09-27 17:18:23.326031081 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2025-09-27 17:18:23.328681469 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-30 17:18:23.328779902 Z
   what: quantity-of-deliverables
-  when: 2025-09-27 16:43:16.999779928 Z
+  when: 2025-09-27 17:18:23.328756699 Z
+- _id: 7
+  _time: 2025-09-27 17:21:23.331117786 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-08-30 17:21:23.331260842 Z
+  what: quality-of-service
+  when: 2025-09-27 17:21:23.331231879 Z
