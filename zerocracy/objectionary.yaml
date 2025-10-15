@@ -2,29 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/news.eolang.org: 403 - API
-    rate limit exceeded for 57.151.128.137. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 74.65414123
+  seconds: 12.1940843
   version: 0.42.1
   what: judges-summary
-  when: 2025-10-15 12:53:54.819561174 Z
+  when: 2025-10-15 13:35:42.165159107 Z
 - _id: 1
-  _time: 2025-10-15 12:53:54.711893698 Z
+  _time: 2025-10-15 13:35:42.158628327 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-09-17 12:53:54.712082170 Z
-  what: quantity-of-deliverables
-  when: 2025-10-15 12:53:54.712043828 Z
+  since: 2025-09-17 13:35:42.158797502 Z
+  what: quality-of-service
+  when: 2025-10-15 13:35:42.158765454 Z
 - _id: 2
-  _time: 2025-10-15 12:53:54.809112022 Z
+  _time: 2025-10-15 13:35:42.160524513 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-10-15 12:53:54.809260579 Z
+  when: 2025-10-15 13:35:42.160632044 Z
 - _id: 3
-  _time: 2025-10-15 12:53:54.814908589 Z
+  _time: 2025-10-15 13:35:42.164253523 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-09-17 12:53:54.815043300 Z
-  what: quality-of-service
-  when: 2025-10-15 12:53:54.815010218 Z
+  since: 2025-09-17 13:35:42.164348647 Z
+  what: quantity-of-deliverables
+  when: 2025-10-15 13:35:42.164327545 Z
