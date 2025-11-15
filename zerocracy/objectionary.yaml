@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/reducing-programs-to-objects:
+    403 - API rate limit exceeded for 172.184.210.164. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 0.83511461
+  seconds: 74.615877633
   version: 0.42.1
   what: judges-summary
-  when: 2025-11-15 13:28:14.278540804 Z
+  when: 2025-11-15 13:43:50.370578016 Z
 - _id: 1
-  _time: 2025-11-15 13:28:14.263974670 Z
+  _time: 2025-11-15 13:43:50.356448539 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-10-18 13:43:50.356644588 Z
+  what: quality-of-service
+  when: 2025-11-15 13:43:50.356606456 Z
+- _id: 2
+  _time: 2025-11-15 13:43:50.359821803 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-10-18 13:43:50.359922322 Z
+  what: quantity-of-deliverables
+  when: 2025-11-15 13:43:50.359899118 Z
+- _id: 3
+  _time: 2025-11-15 13:43:50.368671476 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-11-15 13:28:14.264126885 Z
-- _id: 2
-  _time: 2025-11-15 13:28:14.267207036 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-10-18 13:28:14.267512197 Z
-  what: quality-of-service
-  when: 2025-11-15 13:28:14.267472973 Z
-- _id: 3
-  _time: 2025-11-15 13:28:14.275130926 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-10-18 13:28:14.275232105 Z
-  what: quantity-of-deliverables
-  when: 2025-11-15 13:28:14.275208501 Z
+  when: 2025-11-15 13:43:50.368748070 Z
