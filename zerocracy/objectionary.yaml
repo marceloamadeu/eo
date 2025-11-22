@@ -3,24 +3,225 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 12.43717722
+  seconds: 13.680007668
   version: 0.42.1
   what: judges-summary
-  when: 2025-11-22 09:40:36.918702662 Z
+  when: 2025-11-22 10:24:29.657510410 Z
 - _id: 1
-  _time: 2025-11-22 09:40:36.907663902 Z
+  _time: 2025-11-22 10:24:28.217249949 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-10-25 09:40:36.907843957 Z
-  what: quality-of-service
-  when: 2025-11-22 09:40:36.907806508 Z
+  commit: e453de21fd0c539d5502ddf3defa803996999a21
+  default_branch: master
+  details: 'A new Git push #28431204575 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6137135123
+  event_type: PushEvent
+  push_id: 28431204575
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-21 10:27:00.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2025-11-22 09:40:36.910573748 Z
+  _time: 2025-11-22 10:24:28.500392934 Z
+  _version: 0.10.2/0.42.1/
+  commit: c2230455995a12a60b0c01c6d8e5bf1c1d85d7ce
+  default_branch: master
+  details: 'A new Git push #28426517666 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6132454293
+  event_type: PushEvent
+  push_id: 28426517666
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-21 06:53:33.000000000 Z
+  where: github
+  who: 526301
+- _id: 3
+  _time: 2025-11-22 10:24:28.709578661 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/actions-checkout-6.x
+  details: The pull request objectionary/eolang-paper#20 has been opened by @renovate[bot].
+  event_id: 4812883876
+  event_type: PullRequestEvent
+  issue: 20
+  repository: 784310467
+  what: pull-was-opened
+  when: 2025-11-20 16:45:54.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2025-11-22 10:24:28.838401184 Z
+  _version: 0.10.2/0.42.1/
+  commit: 0f69428bb935654c37c10a7d155812e8833dfaf5
+  default_branch: master
+  details: 'A new Git push #28368017198 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6073995025
+  event_type: PushEvent
+  push_id: 28368017198
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-19 10:35:34.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2025-11-22 10:24:28.981249959 Z
+  _version: 0.10.2/0.42.1/
+  commit: dd63e485983d32914ae0571d410322f8eef970e6
+  default_branch: master
+  details: 'A new Git push #28367999624 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6073977425
+  event_type: PushEvent
+  push_id: 28367999624
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-19 10:34:58.000000000 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2025-11-22 10:24:29.128104092 Z
+  _version: 0.10.2/0.42.1/
+  commit: 27b61e9f1bb48ef2a56c1a7c12ae077a18f1ebb0
+  default_branch: master
+  details: 'A new Git push #28367992870 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6073970707
+  event_type: PushEvent
+  push_id: 28367992870
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-19 10:34:44.000000000 Z
+  where: github
+  who: 526301
+- _id: 7
+  _time: 2025-11-22 10:24:29.283604258 Z
+  _version: 0.10.2/0.42.1/
+  commit: 4243657ce84a67a8fe6657ce124030a9a8d210e1
+  default_branch: master
+  details: 'A new Git push #28367911716 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 6073889613
+  event_type: PushEvent
+  push_id: 28367911716
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-19 10:32:03.000000000 Z
+  where: github
+  who: 526301
+- _id: 8
+  _time: 2025-11-22 10:24:29.433765482 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/davidanson-markdownlint-cli2-action-21.x
+  details: The pull request objectionary/eolang-paper#19 has been opened by @renovate[bot].
+  event_id: 4712320271
+  event_type: PullRequestEvent
+  issue: 19
+  repository: 784310467
+  what: pull-was-opened
+  when: 2025-11-17 01:02:05.000000000 Z
+  where: github
+  who: 29139614
+- _id: 9
+  _time: 2025-11-22 10:24:29.464839112 Z
+  _version: 0.10.2/0.42.1/
+  commit: 13208eb2991e877f101626f59dda4cfa6c0879a1
+  default_branch: master
+  details: 'A new Git push #28188560299 has arrived to objectionary/eolang-paper,
+    made by @yegor256 (default branch is ''master''), not associated with any pull
+    request.'
+  event_id: 5895165954
+  event_type: PushEvent
+  push_id: 28188560299
+  ref: refs/heads/master
+  repository: 784310467
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-11-12 12:46:50.000000000 Z
+  where: github
+  who: 526301
+- _id: 10
+  _time: 2025-11-22 10:24:29.597802910 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/eolang-paper#18 has been opened by @renovate[bot].
+  event_id: 4391426685
+  event_type: PullRequestEvent
+  issue: 18
+  repository: 784310467
+  what: pull-was-opened
+  when: 2025-10-31 16:37:33.000000000 Z
+  where: github
+  who: 29139614
+- _id: 11
+  _time: 2025-11-22 10:24:29.610152881 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/yegor256-latexmk-action-0.x
+  details: The pull request objectionary/eolang-paper#17 has been opened by @renovate[bot].
+  event_id: 4385501310
+  event_type: PullRequestEvent
+  issue: 17
+  repository: 784310467
+  what: pull-was-opened
+  when: 2025-10-31 12:00:32.000000000 Z
+  where: github
+  who: 29139614
+- _id: 12
+  _time: 2025-11-22 10:24:29.622566281 Z
+  _version: 0.10.2/0.42.1/
+  latest: 6137135123
+  repository: 784310467
+  what: events-were-scanned
+  where: github
+- _id: 13
+  _time: 2025-11-22 10:24:29.625976875 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-11-22 09:40:36.910652915 Z
-- _id: 3
-  _time: 2025-11-22 09:40:36.911818785 Z
+  when: 2025-11-22 10:24:29.626088223 Z
+- _id: 14
+  _time: 2025-11-22 10:24:29.630007775 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-10-25 09:40:36.911913100 Z
+  since: 2025-10-25 10:24:29.630582649 Z
   what: quantity-of-deliverables
-  when: 2025-11-22 09:40:36.911890829 Z
+  when: 2025-11-22 10:24:29.630553164 Z
+- _id: 15
+  _time: 2025-11-22 10:24:29.643738032 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2025-11-22 10:24:29.643953775 Z
+  where: github
+  who: 526301
+- _id: 16
+  _time: 2025-11-22 10:24:29.645178353 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-11-22 10:24:29.645328713 Z
+  where: github
+  who: 29139614
+- _id: 17
+  _time: 2025-11-22 10:24:29.650336048 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-10-25 10:24:29.650464848 Z
+  what: quality-of-service
+  when: 2025-11-22 10:24:29.650438509 Z
