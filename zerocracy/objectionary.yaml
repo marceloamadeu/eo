@@ -2,25 +2,100 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '+' for nil
   inserted: 8
-  seconds: 10.980135226
+  seconds: 69.515307516
   version: 0.42.1
   what: judges-summary
-  when: 2025-11-28 18:35:13.510923791 Z
+  when: 2025-11-28 19:21:19.976672849 Z
 - _id: 1
-  _time: 2025-11-28 18:35:13.499853394 Z
+  _time: 2025-11-28 19:20:22.329208711 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-10-31 18:35:13.500032248 Z
-  what: quality-of-service
-  when: 2025-11-28 18:35:13.499995880 Z
+  latest: 4485331870
+  repository: 510082372
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2025-11-28 18:35:13.503739271 Z
+  _time: 2025-11-28 19:20:23.175815434 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-10-31 18:35:13.503837304 Z
-  what: quantity-of-deliverables
-  when: 2025-11-28 18:35:13.503814401 Z
+  branch: renovate/actions-checkout-6.x
+  details: The pull request objectionary/phie#113 has been opened by @renovate[bot].
+  event_id: 4815319253
+  event_type: PullRequestEvent
+  issue: 113
+  repository: 447446664
+  what: pull-was-opened
+  when: 2025-11-20 18:35:16.000000000 Z
+  where: github
+  who: 29139614
 - _id: 3
-  _time: 2025-11-28 18:35:13.507188048 Z
+  _time: 2025-11-28 19:21:19.907021684 Z
+  _version: 0.10.2/0.42.1/
+  branch: '111'
+  details: The pull request objectionary/phie#112 has been opened by @raprogramm.
+  event_id: 4713650609
+  event_type: PullRequestEvent
+  issue: 112
+  repository: 447446664
+  what: pull-was-opened
+  when: 2025-11-17 03:31:25.000000000 Z
+  where: github
+  who: 70325462
+- _id: 4
+  _time: 2025-11-28 19:21:19.915017610 Z
+  _version: 0.10.2/0.42.1/
+  details: The issue objectionary/phie#111 has been opened by @raprogramm.
+  event_id: 4713541643
+  event_type: IssuesEvent
+  issue: 111
+  repository: 447446664
+  what: issue-was-opened
+  when: 2025-11-17 03:20:11.000000000 Z
+  where: github
+  who: 70325462
+- _id: 5
+  _time: 2025-11-28 19:21:19.933381392 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/davidanson-markdownlint-cli2-action-21.x
+  details: The pull request objectionary/phie#110 has been opened by @renovate[bot].
+  event_id: 4712145307
+  event_type: PullRequestEvent
+  issue: 110
+  repository: 447446664
+  what: pull-was-opened
+  when: 2025-11-17 00:36:01.000000000 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2025-11-28 19:21:19.956974111 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2025-11-28 19:21:19.957108643 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2025-11-28 19:21:19.957939061 Z
+  _version: 0.10.2/0.42.1/
+  name: raprogramm
+  what: who-has-name
+  when: 2025-11-28 19:21:19.958069005 Z
+  where: github
+  who: 70325462
+- _id: 8
+  _time: 2025-11-28 19:21:19.966589016 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-10-31 19:21:19.966688333 Z
+  what: quantity-of-deliverables
+  when: 2025-11-28 19:21:19.966664819 Z
+- _id: 9
+  _time: 2025-11-28 19:21:19.973403277 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-10-31 19:21:19.973502613 Z
+  what: quality-of-service
+  when: 2025-11-28 19:21:19.973479039 Z
+- _id: 10
+  _time: 2025-11-28 19:21:19.975644771 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-11-28 18:35:13.507263469 Z
+  when: 2025-11-28 19:21:19.975720132 Z
