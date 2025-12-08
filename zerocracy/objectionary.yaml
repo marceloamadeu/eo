@@ -2,29 +2,65 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/news.eolang.org: 403 - API
-    rate limit exceeded for 172.215.209.179. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 74.387952094
+  seconds: 21.020626016
   version: 0.42.1
   what: judges-summary
-  when: 2025-12-08 21:42:36.342979446 Z
+  when: 2025-12-08 22:25:34.729139432 Z
 - _id: 1
-  _time: 2025-12-08 21:42:36.238546463 Z
+  _time: 2025-12-08 22:25:34.666658320 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-10 21:42:36.238840772 Z
-  what: quality-of-service
-  when: 2025-12-08 21:42:36.238777994 Z
+  details: The issue objectionary/reo#187 has been opened by @morphqdd.
+  event_id: 4925252640
+  event_type: IssuesEvent
+  issue: 187
+  repository: 519299365
+  what: issue-was-opened
+  when: 2025-11-26 10:44:17.000000000 Z
+  where: github
+  who: 125282851
 - _id: 2
-  _time: 2025-12-08 21:42:36.334571220 Z
+  _time: 2025-12-08 22:25:34.674667683 Z
+  _version: 0.10.2/0.42.1/
+  branch: '185'
+  details: The pull request objectionary/reo#186 has been opened by @morphqdd.
+  event_id: 4924893051
+  event_type: PullRequestEvent
+  issue: 186
+  repository: 519299365
+  what: pull-was-opened
+  when: 2025-11-26 10:27:36.000000000 Z
+  where: github
+  who: 125282851
+- _id: 3
+  _time: 2025-12-08 22:25:34.708696496 Z
+  _version: 0.10.2/0.42.1/
+  latest: 6421978909
+  repository: 519299365
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2025-12-08 22:25:34.712839217 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-11-10 22:25:34.713409458 Z
+  what: quality-of-service
+  when: 2025-12-08 22:25:34.713304230 Z
+- _id: 5
+  _time: 2025-12-08 22:25:34.716613145 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-12-08 21:42:36.334659285 Z
-- _id: 3
-  _time: 2025-12-08 21:42:36.338110212 Z
+  when: 2025-12-08 22:25:34.716692804 Z
+- _id: 6
+  _time: 2025-12-08 22:25:34.718655902 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-10 21:42:36.338208766 Z
+  since: 2025-11-10 22:25:34.718752493 Z
   what: quantity-of-deliverables
-  when: 2025-12-08 21:42:36.338185713 Z
+  when: 2025-12-08 22:25:34.718729069 Z
+- _id: 7
+  _time: 2025-12-08 22:25:34.727395636 Z
+  _version: 0.10.2/0.42.1/
+  name: morphqdd
+  what: who-has-name
+  when: 2025-12-08 22:25:34.727549746 Z
+  where: github
+  who: 125282851
