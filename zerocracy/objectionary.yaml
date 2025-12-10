@@ -2,25 +2,40 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 0.842998232
+  seconds: 11.444124938
   version: 0.42.1
   what: judges-summary
-  when: 2025-12-10 17:28:34.620831056 Z
+  when: 2025-12-10 17:49:36.527452932 Z
 - _id: 1
-  _time: 2025-12-10 17:28:34.609363398 Z
+  _time: 2025-12-10 17:49:35.038505494 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-12 17:28:34.609551440 Z
-  what: quality-of-service
-  when: 2025-12-10 17:28:34.609513659 Z
+  latest: 0
+  repository: 490221501
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2025-12-10 17:28:34.612049616 Z
+  _time: 2025-12-10 17:49:36.510486070 Z
+  _version: 0.10.2/0.42.1/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 3
+  _time: 2025-12-10 17:49:36.512135712 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-12-10 17:28:34.612126901 Z
-- _id: 3
-  _time: 2025-12-10 17:28:34.618775740 Z
+  when: 2025-12-10 17:49:36.512214479 Z
+- _id: 4
+  _time: 2025-12-10 17:49:36.518665365 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-12 17:28:34.618887669 Z
+  since: 2025-11-12 17:49:36.518769749 Z
   what: quantity-of-deliverables
-  when: 2025-12-10 17:28:34.618863113 Z
+  when: 2025-12-10 17:49:36.518744382 Z
+- _id: 5
+  _time: 2025-12-10 17:49:36.522341360 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-11-12 17:49:36.522446526 Z
+  what: quality-of-service
+  when: 2025-12-10 17:49:36.522421329 Z
