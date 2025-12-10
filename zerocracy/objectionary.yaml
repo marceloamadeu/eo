@@ -2,40 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
+  error: 'GET https://api.github.com/repos/objectionary/reducing-programs-to-objects:
+    403 - API rate limit exceeded for 52.190.182.224. (But here''s the good news:
+    Authenticated requests get a higher rate limit. Check out the documentation for
+    more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 11.444124938
+  seconds: 75.437902307
   version: 0.42.1
   what: judges-summary
-  when: 2025-12-10 17:49:36.527452932 Z
+  when: 2025-12-10 18:39:36.386432148 Z
 - _id: 1
-  _time: 2025-12-10 17:49:35.038505494 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 490221501
-  what: events-were-scanned
-  where: github
-- _id: 2
-  _time: 2025-12-10 17:49:36.510486070 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-12-10 17:49:36.512135712 Z
+  _time: 2025-12-10 18:39:36.371047914 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-12-10 17:49:36.512214479 Z
-- _id: 4
-  _time: 2025-12-10 17:49:36.518665365 Z
+  when: 2025-12-10 18:39:36.371203485 Z
+- _id: 2
+  _time: 2025-12-10 18:39:36.382876526 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-12 17:49:36.518769749 Z
+  since: 2025-11-12 18:39:36.383041374 Z
   what: quantity-of-deliverables
-  when: 2025-12-10 17:49:36.518744382 Z
-- _id: 5
-  _time: 2025-12-10 17:49:36.522341360 Z
+  when: 2025-12-10 18:39:36.383006369 Z
+- _id: 3
+  _time: 2025-12-10 18:39:36.384514565 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-11-12 17:49:36.522446526 Z
+  since: 2025-11-12 18:39:36.384654677 Z
   what: quality-of-service
-  when: 2025-12-10 17:49:36.522421329 Z
+  when: 2025-12-10 18:39:36.384620853 Z
