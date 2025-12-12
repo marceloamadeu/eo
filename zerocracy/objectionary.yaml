@@ -2,25 +2,26 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 12.002219673
+  seconds: 15.106425412
   version: 0.42.1
   what: judges-summary
-  when: 2025-12-12 14:24:43.736860785 Z
+  when: 2025-12-12 14:42:40.011440437 Z
 - _id: 1
-  _time: 2025-12-12 14:24:43.719246140 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-11-14 14:24:43.719402761 Z
-  what: quantity-of-deliverables
-  when: 2025-12-12 14:24:43.719372084 Z
-- _id: 2
-  _time: 2025-12-12 14:24:43.728875857 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-11-14 14:24:43.729618209 Z
-  what: quality-of-service
-  when: 2025-12-12 14:24:43.728970875 Z
-- _id: 3
-  _time: 2025-12-12 14:24:43.734881850 Z
+  _time: 2025-12-12 14:42:39.992489914 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2025-12-12 14:24:43.734965064 Z
+  when: 2025-12-12 14:42:39.992605788 Z
+- _id: 2
+  _time: 2025-12-12 14:42:39.997103519 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-11-14 14:42:39.997366908 Z
+  what: quality-of-service
+  when: 2025-12-12 14:42:39.997326891 Z
+- _id: 3
+  _time: 2025-12-12 14:42:40.005909189 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-11-14 14:42:40.006077834 Z
+  what: quantity-of-deliverables
+  when: 2025-12-12 14:42:40.006039043 Z
