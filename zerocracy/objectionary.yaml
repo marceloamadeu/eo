@@ -3,104 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 19.459750465
+  seconds: 9.091883996
   version: 0.42.1
   what: judges-summary
-  when: 2026-01-06 02:08:47.045804792 Z
+  when: 2026-01-06 03:50:57.963075329 Z
 - _id: 1
-  _time: 2026-01-06 02:08:46.298139454 Z
-  _version: 0.10.2/0.42.1/
-  commit: 9a9da0567ff25064867ce8c7bc35f0864266363a
-  default_branch: master
-  details: 'A new Git push #29411983681 has arrived to objectionary/news.eolang.org,
-    made by @yegor256 (default branch is ''master''), not associated with any pull
-    request.'
-  event_id: 7117279090
-  event_type: PushEvent
-  push_id: 29411983681
-  ref: refs/heads/master
-  repository: 501259435
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 10:03:04.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2026-01-06 02:08:46.792736687 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/ruby-4.x
-  details: The pull request objectionary/news.eolang.org#94 has been opened by @renovate[bot].
-  event_id: 5492268740
-  event_type: PullRequestEvent
-  issue: 94
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-25 04:41:22.000000000 Z
-  where: github
-  who: 29139614
-- _id: 3
-  _time: 2026-01-06 02:08:47.004645525 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/ruby-3.x
-  details: The pull request objectionary/news.eolang.org#93 has been opened by @renovate[bot].
-  event_id: 5349381015
-  event_type: PullRequestEvent
-  issue: 93
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-17 02:06:19.000000000 Z
-  where: github
-  who: 29139614
-- _id: 4
-  _time: 2026-01-06 02:08:47.012841590 Z
-  _version: 0.10.2/0.42.1/
-  branch: renovate/davidanson-markdownlint-cli2-action-22.x
-  details: The pull request objectionary/news.eolang.org#92 has been opened by @renovate[bot].
-  event_id: 5185294023
-  event_type: PullRequestEvent
-  issue: 92
-  repository: 501259435
-  what: pull-was-opened
-  when: 2025-12-09 10:08:00.000000000 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2026-01-06 02:08:47.023381523 Z
-  _version: 0.10.2/0.42.1/
-  latest: 7117279090
-  repository: 501259435
-  what: events-were-scanned
-  where: github
-- _id: 6
-  _time: 2026-01-06 02:08:47.032145263 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-12-09 02:08:47.032243928 Z
-  what: quantity-of-deliverables
-  when: 2026-01-06 02:08:47.032221246 Z
-- _id: 7
-  _time: 2026-01-06 02:08:47.035371268 Z
+  _time: 2026-01-06 03:50:57.950262173 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-01-06 02:08:47.035447431 Z
-- _id: 8
-  _time: 2026-01-06 02:08:47.037811318 Z
+  when: 2026-01-06 03:50:57.950413106 Z
+- _id: 2
+  _time: 2026-01-06 03:50:57.959733927 Z
   _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-06 02:08:47.037945981 Z
-  where: github
-  who: 526301
-- _id: 9
-  _time: 2026-01-06 02:08:47.038933956 Z
+  since: 2025-12-09 03:50:57.959880161 Z
+  what: quantity-of-deliverables
+  when: 2026-01-06 03:50:57.959845937 Z
+- _id: 3
+  _time: 2026-01-06 03:50:57.961279222 Z
   _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-06 02:08:47.039066745 Z
-  where: github
-  who: 29139614
-- _id: 10
-  _time: 2026-01-06 02:08:47.041285530 Z
-  _version: 0.10.2/0.42.1/
-  since: 2025-12-09 02:08:47.041383263 Z
+  since: 2025-12-09 03:50:57.961410197 Z
   what: quality-of-service
-  when: 2026-01-06 02:08:47.041361101 Z
+  when: 2026-01-06 03:50:57.961379209 Z
