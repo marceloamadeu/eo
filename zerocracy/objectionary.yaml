@@ -2,29 +2,167 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/lints: 403 - API rate limit
-    exceeded for 172.184.175.150. (But here''s the good news: Authenticated requests
-    get a higher rate limit. Check out the documentation for more details.) // See:
-    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 72.147432276
+  seconds: 14.464689692
   version: 0.42.1
   what: judges-summary
-  when: 2026-01-17 03:45:23.116589548 Z
+  when: 2026-01-17 04:36:48.410096487 Z
 - _id: 1
-  _time: 2026-01-17 03:45:23.035393480 Z
+  _time: 2026-01-17 04:36:47.228002898 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-12-20 03:45:23.035692879 Z
-  what: quality-of-service
-  when: 2026-01-17 03:45:23.035628599 Z
+  branch: renovate/eslint-plugin-n-17.x-lockfile
+  details: The pull request objectionary/eo-vscode#158 has been opened by @renovate[bot].
+  event_id: 5785767791
+  event_type: PullRequestEvent
+  issue: 158
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-13 17:43:37.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-01-17 03:45:23.105839192 Z
+  _time: 2026-01-17 04:36:47.376544644 Z
   _version: 0.10.2/0.42.1/
-  since: 2025-12-20 03:45:23.105946002 Z
-  what: quantity-of-deliverables
-  when: 2026-01-17 03:45:23.105921927 Z
+  branch: renovate/babel-monorepo
+  details: The pull request objectionary/eo-vscode#157 has been opened by @renovate[bot].
+  event_id: 5757558728
+  event_type: PullRequestEvent
+  issue: 157
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-12 18:08:49.000000000 Z
+  where: github
+  who: 29139614
 - _id: 3
-  _time: 2026-01-17 03:45:23.113249281 Z
+  _time: 2026-01-17 04:36:47.385478971 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/typedoc-0.x-lockfile
+  details: The pull request objectionary/eo-vscode#156 has been opened by @renovate[bot].
+  event_id: 5738845301
+  event_type: PullRequestEvent
+  issue: 156
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-12 01:25:56.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2026-01-17 04:36:47.408047914 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/node-24.x-lockfile
+  details: The pull request objectionary/eo-vscode#155 has been opened by @renovate[bot].
+  event_id: 5719611679
+  event_type: PullRequestEvent
+  issue: 155
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-10 01:48:54.000000000 Z
+  where: github
+  who: 29139614
+- _id: 5
+  _time: 2026-01-17 04:36:47.414479539 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/vscode-1.x-lockfile
+  details: The pull request objectionary/eo-vscode#154 has been opened by @renovate[bot].
+  event_id: 5701751519
+  event_type: PullRequestEvent
+  issue: 154
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-09 09:03:51.000000000 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2026-01-17 04:36:47.426786530 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/eo-vscode#153 has been opened by @renovate[bot].
+  event_id: 5668207324
+  event_type: PullRequestEvent
+  issue: 153
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-08 00:48:43.000000000 Z
+  where: github
+  who: 29139614
+- _id: 7
+  _time: 2026-01-17 04:36:47.436786644 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/typescript-eslint-monorepo
+  details: The pull request objectionary/eo-vscode#152 has been opened by @renovate[bot].
+  event_id: 5614698193
+  event_type: PullRequestEvent
+  issue: 152
+  repository: 551486781
+  what: pull-was-opened
+  when: 2026-01-05 18:51:29.000000000 Z
+  where: github
+  who: 29139614
+- _id: 8
+  _time: 2026-01-17 04:36:47.445128627 Z
+  _version: 0.10.2/0.42.1/
+  commit: 7162c3c75416ea6b16ac569f880a013d2bece2e5
+  default_branch: master
+  details: 'A new Git push #29411840514 has arrived to objectionary/eo-vscode, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 7117136658
+  event_type: PushEvent
+  push_id: 29411840514
+  ref: refs/heads/master
+  repository: 551486781
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-01-01 09:51:17.000000000 Z
+  where: github
+  who: 526301
+- _id: 9
+  _time: 2026-01-17 04:36:47.731281166 Z
+  _version: 0.10.2/0.42.1/
+  commit: 04c205035e3099bf88d8ebcbd9d9e45e005105cb
+  default_branch: master
+  details: 'A new Git push #29411700495 has arrived to objectionary/eo-vscode, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 7116997598
+  event_type: PushEvent
+  push_id: 29411700495
+  ref: refs/heads/master
+  repository: 551486781
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-01-01 09:38:15.000000000 Z
+  where: github
+  who: 526301
+- _id: 10
+  _time: 2026-01-17 04:36:48.387954129 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-01-17 04:36:48.388091245 Z
+  where: github
+  who: 29139614
+- _id: 11
+  _time: 2026-01-17 04:36:48.388918697 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2026-01-17 04:36:48.389047317 Z
+  where: github
+  who: 526301
+- _id: 12
+  _time: 2026-01-17 04:36:48.394140737 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-01-17 03:45:23.113332026 Z
+  when: 2026-01-17 04:36:48.394228451 Z
+- _id: 13
+  _time: 2026-01-17 04:36:48.400372297 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-12-20 04:36:48.400475460 Z
+  what: quantity-of-deliverables
+  when: 2026-01-17 04:36:48.400452026 Z
+- _id: 14
+  _time: 2026-01-17 04:36:48.404945940 Z
+  _version: 0.10.2/0.42.1/
+  since: 2025-12-20 04:36:48.405044022 Z
+  what: quality-of-service
+  when: 2026-01-17 04:36:48.405021821 Z
