@@ -3,77 +3,24 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 13.597683881
+  seconds: 13.799874954
   version: 0.42.1
   what: judges-summary
-  when: 2026-01-29 20:38:06.978902181 Z
+  when: 2026-01-29 21:34:18.741696999 Z
 - _id: 1
-  _time: 2026-01-29 20:38:06.121714139 Z
+  _time: 2026-01-29 21:34:18.728553043 Z
   _version: 0.10.2/0.42.1/
-  branch: renovate/jamesives-github-pages-deploy-action-4.x
-  details: The pull request objectionary/eolang.sty#132 has been opened by @renovate[bot].
-  event_id: 5716961271
-  event_type: PullRequestEvent
-  issue: 132
-  repository: 546194972
-  what: pull-was-opened
-  when: 2026-01-09 21:55:13.000000000 Z
-  where: github
-  who: 29139614
-- _id: 2
-  _time: 2026-01-29 20:38:06.273910155 Z
-  _version: 0.10.2/0.42.1/
-  commit: 6c51f970566cf72030e3ebd05941c5d76e9f3cb1
-  default_branch: master
-  details: 'A new Git push #29411710136 has arrived to objectionary/eolang.sty, made
-    by @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 7117007173
-  event_type: PushEvent
-  push_id: 29411710136
-  ref: refs/heads/master
-  repository: 546194972
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-01-01 09:39:11.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2026-01-29 20:38:06.954040667 Z
-  _version: 0.10.2/0.42.1/
-  latest: 7876472828
-  repository: 546194972
-  what: events-were-scanned
-  where: github
-- _id: 4
-  _time: 2026-01-29 20:38:06.957851268 Z
-  _version: 0.10.2/0.42.1/
-  name: renovate[bot]
-  what: who-has-name
-  when: 2026-01-29 20:38:06.957997972 Z
-  where: github
-  who: 29139614
-- _id: 5
-  _time: 2026-01-29 20:38:06.958813661 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2026-01-29 20:38:06.958944436 Z
-  where: github
-  who: 526301
-- _id: 6
-  _time: 2026-01-29 20:38:06.965887547 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-01-01 20:38:06.965990349 Z
+  since: 2026-01-01 21:34:18.728734021 Z
   what: quality-of-service
-  when: 2026-01-29 20:38:06.965966815 Z
-- _id: 7
-  _time: 2026-01-29 20:38:06.968593374 Z
+  when: 2026-01-29 21:34:18.728697082 Z
+- _id: 2
+  _time: 2026-01-29 21:34:18.734183191 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-01-01 20:38:06.968689153 Z
+  since: 2026-01-01 21:34:18.734283017 Z
   what: quantity-of-deliverables
-  when: 2026-01-29 20:38:06.968667543 Z
-- _id: 8
-  _time: 2026-01-29 20:38:06.975680705 Z
+  when: 2026-01-29 21:34:18.734260044 Z
+- _id: 3
+  _time: 2026-01-29 21:34:18.735742223 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-01-29 20:38:06.975758040 Z
+  when: 2026-01-29 21:34:18.735814679 Z
