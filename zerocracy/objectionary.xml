@@ -5,32 +5,32 @@
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">19.226842321</seconds>
+    <seconds t="F">13.220748915</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-02-15T06:03:30Z</when>
+    <when t="T">2026-02-15T07:22:35Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-02-15T06:03:30Z</_time>
+    <_time t="T">2026-02-15T07:22:35Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-01-18T06:03:30Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-02-15T06:03:30Z</when>
+    <since t="T">2026-01-18T07:22:35Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-02-15T07:22:35Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-02-15T06:03:30Z</_time>
+    <_time t="T">2026-02-15T07:22:35Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-02-15T06:03:30Z</when>
+    <since t="T">2026-01-18T07:22:35Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-02-15T07:22:35Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-02-15T06:03:30Z</_time>
+    <_time t="T">2026-02-15T07:22:35Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-01-18T06:03:30Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-02-15T06:03:30Z</when>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-02-15T07:22:35Z</when>
   </f>
 </fb>
