@@ -2,66 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 21.078839604
+  seconds: 11.163235768
   version: 0.42.1
   what: judges-summary
-  when: 2026-02-22 13:59:43.569238626 Z
+  when: 2026-02-22 14:38:13.652935527 Z
 - _id: 1
-  _time: 2026-02-22 13:59:42.804759747 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/lints#636 has been closed by @yegor256.
-  event_id: 6773273994
-  event_type: IssuesEvent
-  issue: 636
-  repository: 889819508
-  what: issue-was-closed
-  when: 2026-02-22 07:30:37.000000000 Z
-  where: github
-  who: 526301
-- _id: 2
-  _time: 2026-02-22 13:59:43.264774321 Z
-  _version: 0.10.2/0.42.1/
-  details: The issue objectionary/lints#802 has been opened by @daniilmipt.
-  event_id: 6641483543
-  event_type: IssuesEvent
-  issue: 802
-  repository: 889819508
-  what: issue-was-opened
-  when: 2026-02-17 11:45:33.000000000 Z
-  where: github
-  who: 61058545
-- _id: 3
-  _time: 2026-02-22 13:59:43.550471883 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-01-25 13:59:43.550622425 Z
-  what: quantity-of-deliverables
-  when: 2026-02-22 13:59:43.550585183 Z
-- _id: 4
-  _time: 2026-02-22 13:59:43.555761933 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2026-02-22 13:59:43.555894574 Z
-  where: github
-  who: 526301
-- _id: 5
-  _time: 2026-02-22 13:59:43.556739829 Z
-  _version: 0.10.2/0.42.1/
-  name: daniilmipt
-  what: who-has-name
-  when: 2026-02-22 13:59:43.556876985 Z
-  where: github
-  who: 61058545
-- _id: 6
-  _time: 2026-02-22 13:59:43.560193655 Z
+  _time: 2026-02-22 14:38:13.638600857 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-02-22 13:59:43.560262302 Z
-- _id: 7
-  _time: 2026-02-22 13:59:43.562764242 Z
+  when: 2026-02-22 14:38:13.638747411 Z
+- _id: 2
+  _time: 2026-02-22 14:38:13.644893005 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-01-25 13:59:43.562910113 Z
+  since: 2026-01-25 14:38:13.645031765 Z
   what: quality-of-service
-  when: 2026-02-22 13:59:43.562875318 Z
+  when: 2026-02-22 14:38:13.644998092 Z
+- _id: 3
+  _time: 2026-02-22 14:38:13.648146831 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-01-25 14:38:13.648251076 Z
+  what: quantity-of-deliverables
+  when: 2026-02-22 14:38:13.648227341 Z
