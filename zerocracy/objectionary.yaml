@@ -2,25 +2,95 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 11.152236876
+  seconds: 26.980385808
   version: 0.42.1
   what: judges-summary
-  when: 2026-03-25 13:56:05.910496480 Z
+  when: 2026-03-25 15:07:38.435891979 Z
 - _id: 1
-  _time: 2026-03-25 13:56:05.891871535 Z
+  _time: 2026-03-25 15:07:33.229552865 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-02-25 13:56:05.892074293 Z
-  what: quantity-of-deliverables
-  when: 2026-03-25 13:56:05.892033047 Z
+  latest: 8878070409
+  repository: 731516758
+  what: events-were-scanned
+  where: github
 - _id: 2
-  _time: 2026-03-25 13:56:05.898431359 Z
+  _time: 2026-03-25 15:07:35.682046022 Z
+  _version: 0.10.2/0.42.1/
+  branch: 857-readme-automation
+  details: The pull request objectionary/eoc#887 has been opened by @paskhalov.
+  event_id: 7744854772
+  event_type: PullRequestEvent
+  issue: 887
+  repository: 489321585
+  what: pull-was-opened
+  when: 2026-03-25 12:38:05.000000000 Z
+  where: github
+  who: 46865041
+- _id: 3
+  _time: 2026-03-25 15:07:35.948211123 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/fast-xml-parser-5.x-lockfile
+  details: The pull request objectionary/eoc#886 has been opened by @renovate[bot].
+  event_id: 7672628554
+  event_type: PullRequestEvent
+  issue: 886
+  repository: 489321585
+  what: pull-was-opened
+  when: 2026-03-23 17:29:31.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2026-03-25 15:07:37.336652769 Z
+  _version: 0.10.2/0.42.1/
+  details: The issue objectionary/eoc#590 has been closed by @yegor256.
+  event_id: 7634893130
+  event_type: IssuesEvent
+  issue: 590
+  repository: 489321585
+  what: issue-was-closed
+  when: 2026-03-22 09:00:28.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2026-03-25 15:07:38.398895433 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-02-25 15:07:38.398999296 Z
+  what: quantity-of-deliverables
+  when: 2026-03-25 15:07:38.398974230 Z
+- _id: 6
+  _time: 2026-03-25 15:07:38.408977837 Z
+  _version: 0.10.2/0.42.1/
+  name: paskhalov
+  what: who-has-name
+  when: 2026-03-25 15:07:38.409216671 Z
+  where: github
+  who: 46865041
+- _id: 7
+  _time: 2026-03-25 15:07:38.410512381 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-03-25 15:07:38.410731939 Z
+  where: github
+  who: 29139614
+- _id: 8
+  _time: 2026-03-25 15:07:38.411986172 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2026-03-25 15:07:38.412213254 Z
+  where: github
+  who: 526301
+- _id: 9
+  _time: 2026-03-25 15:07:38.423534987 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-02-25 15:07:38.424324996 Z
+  what: quality-of-service
+  when: 2026-03-25 15:07:38.424189123 Z
+- _id: 10
+  _time: 2026-03-25 15:07:38.427660121 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-03-25 13:56:05.898536024 Z
-- _id: 3
-  _time: 2026-03-25 13:56:05.903503026 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-02-25 13:56:05.903639691 Z
-  what: quality-of-service
-  when: 2026-03-25 13:56:05.903606559 Z
+  when: 2026-03-25 15:07:38.427745661 Z
