@@ -1,36 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="794">
+<fb version="0.10.2" size="2743">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">0.776780011</seconds>
+    <seconds t="F">24.971920148</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-03-29T11:35:13Z</when>
+    <when t="T">2026-03-29T13:09:36Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-03-29T11:35:13Z</_time>
+    <_time t="T">2026-03-29T13:09:33Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-03-29T11:35:13Z</when>
+    <commit t="S">3f06fb019452347ded177a76c10f4a75bb6efd94</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #32241625075 has arrived to objectionary/eo, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">9948263267</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">32241625075</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">73056727</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-03-29T12:28:35Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-03-29T11:35:13Z</_time>
+    <_time t="T">2026-03-29T13:09:34Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-03-01T11:35:13Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-03-29T11:35:13Z</when>
+    <branch t="S">renovate/groovy-monorepo</branch>
+    <details t="S">The pull request objectionary/eo#4966 has been opened by @renovate[bot].</details>
+    <event_id t="I">7877688311</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">4966</issue>
+    <repository t="I">73056727</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-03-29T10:53:18Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-03-29T11:35:13Z</_time>
+    <_time t="T">2026-03-29T13:09:35Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-03-01T11:35:13Z</since>
+    <details t="S">The issue objectionary/eo#4936 has been closed by @yegor256.</details>
+    <event_id t="I">7876693056</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">4936</issue>
+    <repository t="I">73056727</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2026-03-29T09:17:12Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <details t="S">The issue objectionary/eo#4904 has been closed by @0pdd.</details>
+    <event_id t="I">7874269828</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">4904</issue>
+    <repository t="I">73056727</repository>
+    <what t="S">issue-was-closed</what>
+    <when t="T">2026-03-29T05:15:43Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-03-29T13:09:36Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">renovate[bot]</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-03-29T13:09:36Z</when>
+    <where t="S">github</where>
+    <who t="I">29139614</who>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">0pdd</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-03-29T13:09:36Z</when>
+    <where t="S">github</where>
+    <who t="I">24456188</who>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-03-01T13:09:36Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-03-29T13:09:36Z</when>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-03-29T13:09:36Z</when>
+  </f>
+  <f>
+    <_id t="I">10</_id>
+    <_time t="T">2026-03-29T13:09:36Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-03-01T13:09:36Z</since>
     <what t="S">quality-of-service</what>
-    <when t="T">2026-03-29T11:35:13Z</when>
+    <when t="T">2026-03-29T13:09:36Z</when>
   </f>
 </fb>
