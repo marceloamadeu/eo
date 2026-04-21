@@ -3,24 +3,124 @@
   cycles: 1
   deleted: 8
   inserted: 8
-  seconds: 15.530408598
+  seconds: 15.581350251
   version: 0.42.1
   what: judges-summary
-  when: 2026-04-21 08:18:25.383963059 Z
+  when: 2026-04-21 10:02:38.772535295 Z
 - _id: 1
-  _time: 2026-04-21 08:18:25.361518308 Z
+  _time: 2026-04-21 10:02:37.567860657 Z
+  _version: 0.10.2/0.42.1/
+  commit: 231611e2e252a5406a7cf9b083a3350b869d17aa
+  default_branch: master
+  details: 'A new Git push #33080559723 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 10788716986
+  event_type: PushEvent
+  push_id: 33080559723
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-04-20 05:01:56.000000000 Z
+  where: github
+  who: 526301
+- _id: 2
+  _time: 2026-04-21 10:02:37.972702578 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/davidanson-markdownlint-cli2-action-23.x
+  details: The pull request objectionary/eolang.sty#134 has been opened by @renovate[bot].
+  event_id: 7775732832
+  event_type: PullRequestEvent
+  issue: 134
+  repository: 546194972
+  what: pull-was-opened
+  when: 2026-03-26 05:26:10.000000000 Z
+  where: github
+  who: 29139614
+- _id: 3
+  _time: 2026-04-21 10:02:38.164586798 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/zauguin-install-texlive-4.x
+  details: The pull request objectionary/eolang.sty#133 has been opened by @renovate[bot].
+  event_id: 7679730231
+  event_type: PullRequestEvent
+  issue: 133
+  repository: 546194972
+  what: pull-was-opened
+  when: 2026-03-23 21:12:41.000000000 Z
+  where: github
+  who: 29139614
+- _id: 4
+  _time: 2026-04-21 10:02:38.175605446 Z
+  _version: 0.10.2/0.42.1/
+  commit: babe32a09a9d491c07bcfad6c12517331edd23b6
+  default_branch: master
+  details: 'A new Git push #31989888801 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 9696480995
+  event_type: PushEvent
+  push_id: 31989888801
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-03-23 06:30:57.000000000 Z
+  where: github
+  who: 526301
+- _id: 5
+  _time: 2026-04-21 10:02:38.485188564 Z
+  _version: 0.10.2/0.42.1/
+  commit: 313381f626f2cb08a30d0631cb1f3fdb8cc62cd6
+  default_branch: master
+  details: 'A new Git push #31972383006 has arrived to objectionary/eolang.sty, made
+    by @yegor256 (default branch is ''master''), not associated with any pull request.'
+  event_id: 9678993748
+  event_type: PushEvent
+  push_id: 31972383006
+  ref: refs/heads/master
+  repository: 546194972
+  to_master: 1
+  what: git-was-pushed
+  when: 2026-03-22 15:15:12.000000000 Z
+  where: github
+  who: 526301
+- _id: 6
+  _time: 2026-04-21 10:02:38.744990545 Z
+  _version: 0.10.2/0.42.1/
+  latest: 8588359814
+  repository: 546194972
+  what: events-were-scanned
+  where: github
+- _id: 7
+  _time: 2026-04-21 10:02:38.750642966 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2026-04-21 10:02:38.750797584 Z
+  where: github
+  who: 526301
+- _id: 8
+  _time: 2026-04-21 10:02:38.751646557 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-04-21 10:02:38.751781970 Z
+  where: github
+  who: 29139614
+- _id: 9
+  _time: 2026-04-21 10:02:38.761009809 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-03-24 10:02:38.761123430 Z
+  what: quantity-of-deliverables
+  when: 2026-04-21 10:02:38.761098484 Z
+- _id: 10
+  _time: 2026-04-21 10:02:38.766658365 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-03-24 10:02:38.766775293 Z
+  what: quality-of-service
+  when: 2026-04-21 10:02:38.766750848 Z
+- _id: 11
+  _time: 2026-04-21 10:02:38.770056923 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-04-21 08:18:25.361670732 Z
-- _id: 2
-  _time: 2026-04-21 08:18:25.375479881 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-03-24 08:18:25.375649487 Z
-  what: quality-of-service
-  when: 2026-04-21 08:18:25.375613670 Z
-- _id: 3
-  _time: 2026-04-21 08:18:25.378906230 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-03-24 08:18:25.379089387 Z
-  what: quantity-of-deliverables
-  when: 2026-04-21 08:18:25.379062057 Z
+  when: 2026-04-21 10:02:38.770138535 Z
