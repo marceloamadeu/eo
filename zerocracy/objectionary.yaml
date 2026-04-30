@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repos/objectionary/soap26-paper: 403 - API rate
+    limit exceeded for 172.184.172.212. (But here''s the good news: Authenticated
+    requests get a higher rate limit. Check out the documentation for more details.)
+    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 22.994156514
+  seconds: 77.449341822
   version: 0.42.1
   what: judges-summary
-  when: 2026-04-30 13:07:35.106400024 Z
+  when: 2026-04-30 15:29:38.080100341 Z
 - _id: 1
-  _time: 2026-04-30 13:07:35.094576046 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-04-02 13:07:35.094757745 Z
-  what: quality-of-service
-  when: 2026-04-30 13:07:35.094720776 Z
-- _id: 2
-  _time: 2026-04-30 13:07:35.103037079 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-04-02 13:07:35.103188302 Z
-  what: quantity-of-deliverables
-  when: 2026-04-30 13:07:35.103163595 Z
-- _id: 3
-  _time: 2026-04-30 13:07:35.104254150 Z
+  _time: 2026-04-30 15:29:37.989615600 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-04-30 13:07:35.104329902 Z
+  when: 2026-04-30 15:29:37.989842073 Z
+- _id: 2
+  _time: 2026-04-30 15:29:38.065862534 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-04-02 15:29:38.066018095 Z
+  what: quantity-of-deliverables
+  when: 2026-04-30 15:29:38.065984001 Z
+- _id: 3
+  _time: 2026-04-30 15:29:38.068524670 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-04-02 15:29:38.068661926 Z
+  what: quality-of-service
+  when: 2026-04-30 15:29:38.068628995 Z
