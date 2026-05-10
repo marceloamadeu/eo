@@ -2,29 +2,74 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error: 'GET https://api.github.com/repos/objectionary/sodg-maven-plugin: 403 - API
-    rate limit exceeded for 13.87.216.118. (But here''s the good news: Authenticated
-    requests get a higher rate limit. Check out the documentation for more details.)
-    // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  error: 'key not found: "data"'
   inserted: 8
-  seconds: 75.647646538
+  seconds: 14.365277309
   version: 0.42.1
   what: judges-summary
-  when: 2026-05-10 09:44:20.614894647 Z
+  when: 2026-05-10 11:03:28.319420566 Z
 - _id: 1
-  _time: 2026-05-10 09:44:20.609076806 Z
+  _time: 2026-05-10 11:03:27.554375052 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-04-12 09:44:20.609252201 Z
-  what: quality-of-service
-  when: 2026-05-10 09:44:20.609224038 Z
+  details: The issue objectionary/phie#104 has been closed by @yegor256.
+  event_id: 8797687544
+  event_type: IssuesEvent
+  issue: 104
+  repository: 447446664
+  what: issue-was-closed
+  when: 2026-04-26 09:24:47.000000000 Z
+  where: github
+  who: 526301
 - _id: 2
-  _time: 2026-05-10 09:44:20.612101286 Z
+  _time: 2026-05-10 11:03:28.010342126 Z
+  _version: 0.10.2/0.42.1/
+  branch: fix-104-unique-tempfiles
+  details: The pull request objectionary/phie#122 has been opened by @bibonix.
+  event_id: 8797228246
+  event_type: PullRequestEvent
+  issue: 122
+  repository: 447446664
+  what: pull-was-opened
+  when: 2026-04-26 08:38:34.000000000 Z
+  where: github
+  who: 9535539
+- _id: 3
+  _time: 2026-05-10 11:03:28.048233097 Z
+  _version: 0.10.2/0.42.1/
+  latest: 11598692449
+  repository: 447446664
+  what: events-were-scanned
+  where: github
+- _id: 4
+  _time: 2026-05-10 11:03:28.056549252 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-04-12 11:03:28.056958936 Z
+  what: quality-of-service
+  when: 2026-05-10 11:03:28.056936810 Z
+- _id: 5
+  _time: 2026-05-10 11:03:28.061361724 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-04-12 11:03:28.061455830 Z
+  what: quantity-of-deliverables
+  when: 2026-05-10 11:03:28.061435684 Z
+- _id: 6
+  _time: 2026-05-10 11:03:28.063928177 Z
+  _version: 0.10.2/0.42.1/
+  name: yegor256
+  what: who-has-name
+  when: 2026-05-10 11:03:28.064055931 Z
+  where: github
+  who: 526301
+- _id: 7
+  _time: 2026-05-10 11:03:28.064981382 Z
+  _version: 0.10.2/0.42.1/
+  name: bibonix
+  what: who-has-name
+  when: 2026-05-10 11:03:28.065102893 Z
+  where: github
+  who: 9535539
+- _id: 8
+  _time: 2026-05-10 11:03:28.069046894 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-05-10 09:44:20.612160365 Z
-- _id: 3
-  _time: 2026-05-10 09:44:20.614118417 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-04-12 09:44:20.614213620 Z
-  what: quantity-of-deliverables
-  when: 2026-05-10 09:44:20.614194601 Z
+  when: 2026-05-10 11:03:28.069118757 Z
