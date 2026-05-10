@@ -1,95 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="1955">
+<fb version="0.10.2" size="794">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error t="S">key not found: "data"</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">14.365277309</seconds>
+    <seconds t="F">9.279372427</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
+    <when t="T">2026-05-10T12:10:25Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-05-10T11:03:27Z</_time>
+    <_time t="T">2026-05-10T12:10:25Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <details t="S">The issue objectionary/phie#104 has been closed by @yegor256.</details>
-    <event_id t="I">8797687544</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">104</issue>
-    <repository t="I">447446664</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2026-04-26T09:24:47Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-05-10T12:10:25Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
+    <_time t="T">2026-05-10T12:10:25Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">fix-104-unique-tempfiles</branch>
-    <details t="S">The pull request objectionary/phie#122 has been opened by @bibonix.</details>
-    <event_id t="I">8797228246</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">122</issue>
-    <repository t="I">447446664</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-04-26T08:38:34Z</when>
-    <where t="S">github</where>
-    <who t="I">9535539</who>
+    <since t="T">2026-04-12T12:10:25Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-05-10T12:10:25Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
+    <_time t="T">2026-05-10T12:10:25Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <latest t="I">11598692449</latest>
-    <repository t="I">447446664</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-04-12T11:03:28Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-04-12T11:03:28Z</since>
+    <since t="T">2026-04-12T12:10:25Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">yegor256</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <name t="S">bibonix</name>
-    <what t="S">who-has-name</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
-    <where t="S">github</where>
-    <who t="I">9535539</who>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2026-05-10T11:03:28Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-05-10T11:03:28Z</when>
+    <when t="T">2026-05-10T12:10:25Z</when>
   </f>
 </fb>
