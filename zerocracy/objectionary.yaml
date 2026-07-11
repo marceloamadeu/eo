@@ -2,25 +2,29 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: 'GET https://api.github.com/repositories/574459304: 403 - API rate limit
+    exceeded for 52.241.147.100. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 11.315766356
+  seconds: 90.891745233
   version: 0.42.1
   what: judges-summary
-  when: 2026-07-11 15:32:14.990889460 Z
+  when: 2026-07-11 17:05:04.228700959 Z
 - _id: 1
-  _time: 2026-07-11 15:32:14.981374956 Z
+  _time: 2026-07-11 17:05:04.221595661 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-06-13 15:32:14.981552928 Z
+  since: 2026-06-13 17:05:04.221785996 Z
   what: quality-of-service
-  when: 2026-07-11 15:32:14.981519439 Z
+  when: 2026-07-11 17:05:04.221747995 Z
 - _id: 2
-  _time: 2026-07-11 15:32:14.986153479 Z
+  _time: 2026-07-11 17:05:04.224268805 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-06-13 15:32:14.986264603 Z
+  since: 2026-06-13 17:05:04.224373811 Z
   what: quantity-of-deliverables
-  when: 2026-07-11 15:32:14.986232175 Z
+  when: 2026-07-11 17:05:04.224350167 Z
 - _id: 3
-  _time: 2026-07-11 15:32:14.990016453 Z
+  _time: 2026-07-11 17:05:04.227765325 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-07-11 15:32:14.990123381 Z
+  when: 2026-07-11 17:05:04.227847377 Z
