@@ -1,113 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="2409">
+<fb version="0.10.2" size="790">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
-    <error>
-      <v t="S">undefined method '[]' for nil</v>
-      <v t="S">Judge dimensions-of-terrain stopped by timeout after 3m0s: execution expired</v>
-    </error>
     <inserted t="I">8</inserted>
-    <seconds t="F">319.015660826</seconds>
+    <seconds t="F">10.604499022</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-07-18T15:35:40Z</when>
+    <when t="T">2026-07-18T16:31:50Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-07-18T15:32:39Z</_time>
+    <_time t="T">2026-07-18T16:31:50Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">fix/192-csv-measures-default</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#198 has been opened by @hkjerryleung.</details>
-    <event_id t="I">11794025848</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">198</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-14T23:33:15Z</when>
-    <where t="S">github</where>
-    <who t="I">126152194</who>
+    <since t="T">2026-06-20T16:31:50Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-07-18T16:31:50Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-07-18T15:32:39Z</_time>
+    <_time t="T">2026-07-18T16:31:50Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">codex/20260714-191-reproducible-meta-time</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#197 has been opened by @sjh9714.</details>
-    <event_id t="I">11742387065</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">197</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-14T01:48:13Z</when>
-    <where t="S">github</where>
-    <who t="I">163989462</who>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-07-18T16:31:50Z</when>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-07-18T15:32:40Z</_time>
+    <_time t="T">2026-07-18T16:31:50Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">179</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#196 has been opened by @morphqdd.</details>
-    <event_id t="I">11727978955</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">196</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-13T18:40:11Z</when>
-    <where t="S">github</where>
-    <who t="I">125282851</who>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2026-07-18T15:32:40Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">186</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#195 has been opened by @morphqdd.</details>
-    <event_id t="I">11726977765</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">195</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-13T18:17:11Z</when>
-    <where t="S">github</where>
-    <who t="I">125282851</who>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2026-07-18T15:32:40Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <branch t="S">193</branch>
-    <details t="S">The pull request objectionary/sodg-maven-plugin#194 has been opened by @morphqdd.</details>
-    <event_id t="I">11726909866</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <issue t="I">194</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2026-07-13T18:15:40Z</when>
-    <where t="S">github</where>
-    <who t="I">125282851</who>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2026-07-18T15:32:40Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <details t="S">The issue objectionary/sodg-maven-plugin#193 has been opened by @morphqdd.</details>
-    <event_id t="I">11677907953</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <issue t="I">193</issue>
-    <repository t="I">955159947</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2026-07-12T15:57:59Z</when>
-    <where t="S">github</where>
-    <who t="I">125282851</who>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2026-07-18T15:32:40Z</_time>
-    <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-07-18T15:32:40Z</when>
+    <since t="T">2026-06-20T16:31:50Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-07-18T16:31:50Z</when>
   </f>
 </fb>
