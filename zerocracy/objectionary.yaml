@@ -2,25 +2,132 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 10.329570898
+  seconds: 23.40192557
   version: 0.42.1
   what: judges-summary
-  when: 2026-07-17 23:26:55.603969377 Z
+  when: 2026-07-18 00:59:14.233158790 Z
 - _id: 1
-  _time: 2026-07-17 23:26:55.585564944 Z
+  _time: 2026-07-18 00:59:13.197128761 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-06-19 23:26:55.585764026 Z
-  what: quantity-of-deliverables
-  when: 2026-07-17 23:26:55.585725253 Z
+  branch: fix/192-csv-measures-default
+  details: The pull request objectionary/sodg-maven-plugin#198 has been opened by
+    @hkjerryleung.
+  event_id: 11794025848
+  event_type: PullRequestEvent
+  issue: 198
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-07-14 23:33:15.000000000 Z
+  where: github
+  who: 126152194
 - _id: 2
-  _time: 2026-07-17 23:26:55.596741608 Z
+  _time: 2026-07-18 00:59:13.524500851 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-06-19 23:26:55.596894744 Z
-  what: quality-of-service
-  when: 2026-07-17 23:26:55.596859739 Z
+  branch: codex/20260714-191-reproducible-meta-time
+  details: The pull request objectionary/sodg-maven-plugin#197 has been opened by
+    @sjh9714.
+  event_id: 11742387065
+  event_type: PullRequestEvent
+  issue: 197
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-07-14 01:48:13.000000000 Z
+  where: github
+  who: 163989462
 - _id: 3
-  _time: 2026-07-17 23:26:55.600576861 Z
+  _time: 2026-07-18 00:59:14.068125150 Z
+  _version: 0.10.2/0.42.1/
+  branch: '179'
+  details: The pull request objectionary/sodg-maven-plugin#196 has been opened by
+    @morphqdd.
+  event_id: 11727978955
+  event_type: PullRequestEvent
+  issue: 196
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-07-13 18:40:11.000000000 Z
+  where: github
+  who: 125282851
+- _id: 4
+  _time: 2026-07-18 00:59:14.083594768 Z
+  _version: 0.10.2/0.42.1/
+  branch: '186'
+  details: The pull request objectionary/sodg-maven-plugin#195 has been opened by
+    @morphqdd.
+  event_id: 11726977765
+  event_type: PullRequestEvent
+  issue: 195
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-07-13 18:17:11.000000000 Z
+  where: github
+  who: 125282851
+- _id: 5
+  _time: 2026-07-18 00:59:14.089908623 Z
+  _version: 0.10.2/0.42.1/
+  branch: '193'
+  details: The pull request objectionary/sodg-maven-plugin#194 has been opened by
+    @morphqdd.
+  event_id: 11726909866
+  event_type: PullRequestEvent
+  issue: 194
+  repository: 955159947
+  what: pull-was-opened
+  when: 2026-07-13 18:15:40.000000000 Z
+  where: github
+  who: 125282851
+- _id: 6
+  _time: 2026-07-18 00:59:14.144191484 Z
+  _version: 0.10.2/0.42.1/
+  details: The issue objectionary/sodg-maven-plugin#193 has been opened by @morphqdd.
+  event_id: 11677907953
+  event_type: IssuesEvent
+  issue: 193
+  repository: 955159947
+  what: issue-was-opened
+  when: 2026-07-12 15:57:59.000000000 Z
+  where: github
+  who: 125282851
+- _id: 7
+  _time: 2026-07-18 00:59:14.213230701 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-06-20 00:59:14.213372234 Z
+  what: quantity-of-deliverables
+  when: 2026-07-18 00:59:14.213340446 Z
+- _id: 8
+  _time: 2026-07-18 00:59:14.218043537 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-07-17 23:26:55.600658954 Z
+  when: 2026-07-18 00:59:14.218118250 Z
+- _id: 9
+  _time: 2026-07-18 00:59:14.221577668 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-06-20 00:59:14.221677028 Z
+  what: quality-of-service
+  when: 2026-07-18 00:59:14.221655816 Z
+- _id: 10
+  _time: 2026-07-18 00:59:14.226702199 Z
+  _version: 0.10.2/0.42.1/
+  name: hkjerryleung
+  what: who-has-name
+  when: 2026-07-18 00:59:14.226835711 Z
+  where: github
+  who: 126152194
+- _id: 11
+  _time: 2026-07-18 00:59:14.227649028 Z
+  _version: 0.10.2/0.42.1/
+  name: sjh9714
+  what: who-has-name
+  when: 2026-07-18 00:59:14.228271937 Z
+  where: github
+  who: 163989462
+- _id: 12
+  _time: 2026-07-18 00:59:14.229072285 Z
+  _version: 0.10.2/0.42.1/
+  name: morphqdd
+  what: who-has-name
+  when: 2026-07-18 00:59:14.229191735 Z
+  where: github
+  who: 125282851

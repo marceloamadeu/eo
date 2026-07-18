@@ -1,36 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="794">
+<fb version="0.10.2" size="3173">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '[]' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.329570898</seconds>
+    <seconds t="F">23.40192557</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-07-17T23:26:55Z</when>
+    <when t="T">2026-07-18T00:59:14Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-07-17T23:26:55Z</_time>
+    <_time t="T">2026-07-18T00:59:13Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-06-19T23:26:55Z</since>
-    <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-07-17T23:26:55Z</when>
+    <branch t="S">fix/192-csv-measures-default</branch>
+    <details t="S">The pull request objectionary/sodg-maven-plugin#198 has been opened by @hkjerryleung.</details>
+    <event_id t="I">11794025848</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">198</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-14T23:33:15Z</when>
+    <where t="S">github</where>
+    <who t="I">126152194</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-07-17T23:26:55Z</_time>
+    <_time t="T">2026-07-18T00:59:13Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-06-19T23:26:55Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-07-17T23:26:55Z</when>
+    <branch t="S">codex/20260714-191-reproducible-meta-time</branch>
+    <details t="S">The pull request objectionary/sodg-maven-plugin#197 has been opened by @sjh9714.</details>
+    <event_id t="I">11742387065</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">197</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-14T01:48:13Z</when>
+    <where t="S">github</where>
+    <who t="I">163989462</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-07-17T23:26:55Z</_time>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <branch t="S">179</branch>
+    <details t="S">The pull request objectionary/sodg-maven-plugin#196 has been opened by @morphqdd.</details>
+    <event_id t="I">11727978955</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">196</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-13T18:40:11Z</when>
+    <where t="S">github</where>
+    <who t="I">125282851</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <branch t="S">186</branch>
+    <details t="S">The pull request objectionary/sodg-maven-plugin#195 has been opened by @morphqdd.</details>
+    <event_id t="I">11726977765</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">195</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-13T18:17:11Z</when>
+    <where t="S">github</where>
+    <who t="I">125282851</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <branch t="S">193</branch>
+    <details t="S">The pull request objectionary/sodg-maven-plugin#194 has been opened by @morphqdd.</details>
+    <event_id t="I">11726909866</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <issue t="I">194</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2026-07-13T18:15:40Z</when>
+    <where t="S">github</where>
+    <who t="I">125282851</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <details t="S">The issue objectionary/sodg-maven-plugin#193 has been opened by @morphqdd.</details>
+    <event_id t="I">11677907953</event_id>
+    <event_type t="S">IssuesEvent</event_type>
+    <issue t="I">193</issue>
+    <repository t="I">955159947</repository>
+    <what t="S">issue-was-opened</what>
+    <when t="T">2026-07-12T15:57:59Z</when>
+    <where t="S">github</where>
+    <who t="I">125282851</who>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-06-20T00:59:14Z</since>
+    <what t="S">quantity-of-deliverables</what>
+    <when t="T">2026-07-18T00:59:14Z</when>
+  </f>
+  <f>
+    <_id t="I">8</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-07-17T23:26:55Z</when>
+    <when t="T">2026-07-18T00:59:14Z</when>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-06-20T00:59:14Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-07-18T00:59:14Z</when>
+  </f>
+  <f>
+    <_id t="I">10</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">hkjerryleung</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-07-18T00:59:14Z</when>
+    <where t="S">github</where>
+    <who t="I">126152194</who>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">sjh9714</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-07-18T00:59:14Z</when>
+    <where t="S">github</where>
+    <who t="I">163989462</who>
+  </f>
+  <f>
+    <_id t="I">12</_id>
+    <_time t="T">2026-07-18T00:59:14Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">morphqdd</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-07-18T00:59:14Z</when>
+    <where t="S">github</where>
+    <who t="I">125282851</who>
   </f>
 </fb>
