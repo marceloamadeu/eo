@@ -2,25 +2,19 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error:
+  - 'GET https://api.github.com/repos/objectionary/aoi: 403 - API rate limit exceeded
+    for 57.154.6.101. (But here''s the good news: Authenticated requests get a higher
+    rate limit. Check out the documentation for more details.) // See: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
+  - 'Judge find-all-issues stopped by timeout after 3m0s: execution expired'
+  - 'Judge dimensions-of-terrain stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 16.790320725
+  seconds: 422.82760372
   version: 0.42.1
   what: judges-summary
-  when: 2026-08-03 11:32:16.900921050 Z
+  when: 2026-08-03 14:58:52.138308649 Z
 - _id: 1
-  _time: 2026-08-03 11:32:16.878660392 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-07-06 11:32:16.878889700 Z
-  what: quantity-of-deliverables
-  when: 2026-08-03 11:32:16.878847402 Z
-- _id: 2
-  _time: 2026-08-03 11:32:16.886182426 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-07-06 11:32:16.886328028 Z
-  what: quality-of-service
-  when: 2026-08-03 11:32:16.886292511 Z
-- _id: 3
-  _time: 2026-08-03 11:32:16.890236495 Z
+  _time: 2026-08-03 14:55:52.136353938 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-08-03 11:32:16.890362620 Z
+  when: 2026-08-03 14:55:52.136557984 Z
