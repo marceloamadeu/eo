@@ -1,36 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="791">
+<fb version="0.10.2" size="1711">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
     <inserted t="I">8</inserted>
-    <seconds t="F">18.114033867</seconds>
+    <seconds t="F">12.318640467</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-08-09T06:10:01Z</when>
+    <when t="T">2026-08-09T07:34:53Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-08-09T06:10:01Z</_time>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-07-12T06:10:01Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-08-09T06:10:01Z</when>
+    <commit t="S">9e427bc28c10cd31ee7d2a9e305c5cb9ee6101f9</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #37975510318 has arrived to objectionary/speedment, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">15681429003</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">37975510318</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">1049128198</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-07-24T04:34:51Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-08-09T06:10:01Z</_time>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-08-09T06:10:01Z</when>
+    <latest t="I">12239773193</latest>
+    <repository t="I">1049128198</repository>
+    <what t="S">events-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-08-09T06:10:01Z</_time>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-07-12T06:10:01Z</since>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-08-09T07:34:53Z</when>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-07-12T07:34:53Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-08-09T07:34:53Z</when>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-08-09T07:34:53Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-08-09T07:34:53Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-07-12T07:34:53Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-08-09T06:10:01Z</when>
+    <when t="T">2026-08-09T07:34:53Z</when>
   </f>
 </fb>
