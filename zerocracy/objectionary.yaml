@@ -2,78 +2,25 @@
 - added: 8
   cycles: 1
   deleted: 8
-  error:
-  - undefined method '+' for nil
-  - 'GET https://api.github.com/search/commits?per_page=100&q=repo%3Aobjectionary%2Freducing-programs-to-objects+author-date%3A%3E2026-07-18:
-    502 - Server Error'
   inserted: 8
-  seconds: 162.915564862
+  seconds: 12.769796993
   version: 0.42.1
   what: judges-summary
-  when: 2026-08-17 15:58:32.459048304 Z
+  when: 2026-08-17 16:33:41.791013005 Z
 - _id: 1
-  _time: 2026-08-17 15:57:49.187236641 Z
+  _time: 2026-08-17 16:33:41.775141915 Z
   _version: 0.10.2/0.42.1/
-  commit: f653c516b022a7707fce37a49accd4e90be69f79
-  default_branch: master
-  details: 'A new Git push #40173918089 has arrived to objectionary/wpa, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 17849541387
-  event_type: PushEvent
-  push_id: 40173918089
-  ref: refs/heads/master
-  repository: 1219806055
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-08-16 16:54:10.000000000 Z
-  where: github
-  who: 526301
+  since: 2026-07-20 16:33:41.775339032 Z
+  what: quality-of-service
+  when: 2026-08-17 16:33:41.775306954 Z
 - _id: 2
-  _time: 2026-08-17 15:57:49.921265328 Z
-  _version: 0.10.2/0.42.1/
-  commit: 963bb0ffd4fdb13f2ac1241b721dd0126dfd64ca
-  default_branch: master
-  details: 'A new Git push #40155029831 has arrived to objectionary/wpa, made by @yegor256
-    (default branch is ''master''), not associated with any pull request.'
-  event_id: 17830784328
-  event_type: PushEvent
-  push_id: 40155029831
-  ref: refs/heads/master
-  repository: 1219806055
-  to_master: 1
-  what: git-was-pushed
-  when: 2026-08-16 13:03:02.000000000 Z
-  where: github
-  who: 526301
-- _id: 3
-  _time: 2026-08-17 15:57:50.372858711 Z
+  _time: 2026-08-17 16:33:41.778420621 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-08-17 15:57:50.372942607 Z
-- _id: 4
-  _time: 2026-08-17 15:58:31.275058140 Z
+  when: 2026-08-17 16:33:41.778498238 Z
+- _id: 3
+  _time: 2026-08-17 16:33:41.785574395 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-07-20 15:58:31.275194013 Z
+  since: 2026-07-20 16:33:41.785671411 Z
   what: quantity-of-deliverables
-  when: 2026-08-17 15:58:31.275167013 Z
-- _id: 5
-  _time: 2026-08-17 15:58:31.276762562 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-07-20 15:58:31.276914885 Z
-  what: quality-of-service
-  when: 2026-08-17 15:58:31.276889458 Z
-- _id: 6
-  _time: 2026-08-17 15:58:31.282263466 Z
-  _version: 0.10.2/0.42.1/
-  name: yegor256
-  what: who-has-name
-  when: 2026-08-17 15:58:31.282407394 Z
-  where: github
-  who: 526301
-- _id: 7
-  _time: 2026-08-17 15:58:32.455457487 Z
-  _version: 0.10.2/0.42.1/
-  latest: 0
-  repository: 1260338737
-  what: types-were-scanned
-  where: github
+  when: 2026-08-17 16:33:41.785650450 Z
