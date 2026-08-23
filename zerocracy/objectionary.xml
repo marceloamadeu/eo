@@ -1,36 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.10.2" size="789">
+<fb version="0.10.2" size="2476">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <deleted t="I">8</deleted>
+    <error t="S">undefined method '+' for nil</error>
     <inserted t="I">8</inserted>
-    <seconds t="F">10.222627766</seconds>
+    <seconds t="F">19.339496384</seconds>
     <version t="S">0.42.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2026-08-23T21:49:07Z</when>
+    <when t="T">2026-08-23T22:28:03Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2026-08-23T21:49:07Z</_time>
+    <_time t="T">2026-08-23T22:28:02Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <what t="S">dimensions-of-terrain</what>
-    <when t="T">2026-08-23T21:49:07Z</when>
+    <commit t="S">2936cf19b1343552115187945fb54b99b1dd545c</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #40628299835 has arrived to objectionary/wpa, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">18304204104</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">40628299835</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">1219806055</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-08-20T16:11:20Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2026-08-23T21:49:07Z</_time>
+    <_time t="T">2026-08-23T22:28:02Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-07-26T21:49:07Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2026-08-23T21:49:07Z</when>
+    <commit t="S">f653c516b022a7707fce37a49accd4e90be69f79</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #40173918089 has arrived to objectionary/wpa, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">17849541387</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">40173918089</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">1219806055</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-08-16T16:54:10Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">3</_id>
-    <_time t="T">2026-08-23T21:49:07Z</_time>
+    <_time t="T">2026-08-23T22:28:03Z</_time>
     <_version t="S">0.10.2/0.42.1/</_version>
-    <since t="T">2026-07-26T21:49:07Z</since>
+    <commit t="S">963bb0ffd4fdb13f2ac1241b721dd0126dfd64ca</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #40155029831 has arrived to objectionary/wpa, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">17830784328</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <push_id t="I">40155029831</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">1219806055</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2026-08-16T13:03:02Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">4</_id>
+    <_time t="T">2026-08-23T22:28:03Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <name t="S">yegor256</name>
+    <what t="S">who-has-name</what>
+    <when t="T">2026-08-23T22:28:03Z</when>
+    <where t="S">github</where>
+    <who t="I">526301</who>
+  </f>
+  <f>
+    <_id t="I">5</_id>
+    <_time t="T">2026-08-23T22:28:03Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-07-26T22:28:03Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2026-08-23T21:49:07Z</when>
+    <when t="T">2026-08-23T22:28:03Z</when>
+  </f>
+  <f>
+    <_id t="I">6</_id>
+    <_time t="T">2026-08-23T22:28:03Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <since t="T">2026-07-26T22:28:03Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2026-08-23T22:28:03Z</when>
+  </f>
+  <f>
+    <_id t="I">7</_id>
+    <_time t="T">2026-08-23T22:28:03Z</_time>
+    <_version t="S">0.10.2/0.42.1/</_version>
+    <what t="S">dimensions-of-terrain</what>
+    <when t="T">2026-08-23T22:28:03Z</when>
   </f>
 </fb>
