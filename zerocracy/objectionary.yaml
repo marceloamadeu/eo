@@ -2,25 +2,50 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error:
+  - undefined method '+' for nil
+  - 'Judge quantity-of-deliverables stopped by timeout after 3m0s: execution expired'
   inserted: 8
-  seconds: 15.806351165
+  seconds: 276.363069376
   version: 0.42.1
   what: judges-summary
-  when: 2026-08-23 05:03:11.813310835 Z
+  when: 2026-08-23 06:01:04.200022911 Z
 - _id: 1
-  _time: 2026-08-23 05:03:11.788260646 Z
+  _time: 2026-08-23 05:57:59.651900347 Z
+  _version: 0.10.2/0.42.1/
+  branch: renovate/crate-ci-typos-1.x
+  details: The pull request objectionary/game-of-life#59 has been opened by @renovate[bot].
+  event_id: 12719288811
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 59
+  repository: 501942888
+  what: pull-was-opened
+  when: 2026-08-03 19:50:54.000000000 Z
+  where: github
+  who: 29139614
+- _id: 2
+  _time: 2026-08-23 05:58:04.045652888 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-07-26 05:58:04.045767441 Z
+  what: quantity-of-deliverables
+  when: 2026-08-23 05:58:04.045744947 Z
+- _id: 3
+  _time: 2026-08-23 06:01:04.046278704 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-07-26 06:01:04.046411815 Z
+  what: quality-of-service
+  when: 2026-08-23 06:01:04.046386367 Z
+- _id: 4
+  _time: 2026-08-23 06:01:04.055979564 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-08-23 05:03:11.792481504 Z
-- _id: 2
-  _time: 2026-08-23 05:03:11.796199828 Z
+  when: 2026-08-23 06:01:04.056065454 Z
+- _id: 5
+  _time: 2026-08-23 06:01:04.197597246 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-07-26 05:03:11.796329263 Z
-  what: quality-of-service
-  when: 2026-08-23 05:03:11.796301441 Z
-- _id: 3
-  _time: 2026-08-23 05:03:11.809715696 Z
-  _version: 0.10.2/0.42.1/
-  since: 2026-07-26 05:03:11.809853673 Z
-  what: quantity-of-deliverables
-  when: 2026-08-23 05:03:11.809827464 Z
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-08-23 06:01:04.197793011 Z
+  where: github
+  who: 29139614
