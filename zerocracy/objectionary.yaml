@@ -2,25 +2,54 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error: undefined method '[]' for nil
   inserted: 8
-  seconds: 18.882683303
+  seconds: 24.694175856
   version: 0.42.1
   what: judges-summary
-  when: 2026-10-29 21:41:46.680632929 Z
+  when: 2026-10-30 01:46:41.081649728 Z
 - _id: 1
-  _time: 2026-10-29 21:41:46.667561915 Z
+  _time: 2026-10-30 01:46:39.938992245 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-10-01 21:41:46.667698230 Z
-  what: quality-of-service
-  when: 2026-10-29 21:41:46.667672980 Z
+  branch: renovate/reviewdog-action-actionlint-1.x
+  details: The pull request objectionary/jucs#156 has been opened by @renovate[bot].
+  event_id: 18577337766
+  event_type: PullRequestEvent
+  issue: 156
+  repository: 574459304
+  what: pull-was-opened
+  when: 2026-10-29 16:29:21.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-10-29 21:41:46.671907419 Z
+  _time: 2026-10-30 01:46:40.804408220 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-10-29 21:41:46.671975755 Z
+  when: 2026-10-30 01:46:40.804507936 Z
 - _id: 3
-  _time: 2026-10-29 21:41:46.676459204 Z
+  _time: 2026-10-30 01:46:40.814517118 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-10-01 21:41:46.676539330 Z
+  since: 2026-10-02 01:46:40.814638274 Z
   what: quantity-of-deliverables
-  when: 2026-10-29 21:41:46.676522504 Z
+  when: 2026-10-30 01:46:40.814612526 Z
+- _id: 4
+  _time: 2026-10-30 01:46:40.816801577 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-10-02 01:46:40.816914678 Z
+  what: quality-of-service
+  when: 2026-10-30 01:46:40.816890052 Z
+- _id: 5
+  _time: 2026-10-30 01:46:40.821657695 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-10-30 01:46:40.821842349 Z
+  where: github
+  who: 29139614
+- _id: 6
+  _time: 2026-10-30 01:46:41.080427018 Z
+  _version: 0.10.2/0.42.1/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
