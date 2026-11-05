@@ -2,25 +2,52 @@
 - added: 8
   cycles: 1
   deleted: 8
+  error:
+  - undefined method '[]' for nil
+  - 'GET https://api.github.com/repos/objectionary/eo-jpeek: 403 - API rate limit
+    exceeded for 57.151.128.97. (But here''s the good news: Authenticated requests
+    get a higher rate limit. Check out the documentation for more details.) // See:
+    https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting'
   inserted: 8
-  seconds: 18.312198156
+  seconds: 217.474050151
   version: 0.42.1
   what: judges-summary
-  when: 2026-11-04 18:32:02.016967118 Z
+  when: 2026-11-05 00:18:43.238257091 Z
 - _id: 1
-  _time: 2026-11-04 18:32:01.999066258 Z
+  _time: 2026-11-05 00:16:05.454390411 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-10-07 18:32:01.999236053 Z
-  what: quality-of-service
-  when: 2026-11-04 18:32:01.999203344 Z
+  branch: renovate/yegor256-terald-action-digest
+  details: The pull request objectionary/eo-graphs#93 has been opened by @renovate[bot].
+  event_id: 18991266893
+  event_type: PullRequestEvent
+  issue: 93
+  repository: 396732517
+  what: pull-was-opened
+  when: 2026-11-03 11:34:52.000000000 Z
+  where: github
+  who: 29139614
 - _id: 2
-  _time: 2026-11-04 18:32:02.008000499 Z
+  _time: 2026-11-05 00:16:10.312890196 Z
   _version: 0.10.2/0.42.1/
   what: dimensions-of-terrain
-  when: 2026-11-04 18:32:02.008087169 Z
+  when: 2026-11-05 00:16:10.312969454 Z
 - _id: 3
-  _time: 2026-11-04 18:32:02.012517244 Z
+  _time: 2026-11-05 00:18:42.986266858 Z
   _version: 0.10.2/0.42.1/
-  since: 2026-10-07 18:32:02.012613488 Z
+  since: 2026-10-08 00:18:42.986398794 Z
   what: quantity-of-deliverables
-  when: 2026-11-04 18:32:02.012591715 Z
+  when: 2026-11-05 00:18:42.986372966 Z
+- _id: 4
+  _time: 2026-11-05 00:18:42.989427936 Z
+  _version: 0.10.2/0.42.1/
+  since: 2026-10-08 00:18:42.989605578 Z
+  what: quality-of-service
+  when: 2026-11-05 00:18:42.989580942 Z
+- _id: 5
+  _time: 2026-11-05 00:18:43.235691483 Z
+  _version: 0.10.2/0.42.1/
+  name: renovate[bot]
+  what: who-has-name
+  when: 2026-11-05 00:18:43.235877781 Z
+  where: github
+  who: 29139614
